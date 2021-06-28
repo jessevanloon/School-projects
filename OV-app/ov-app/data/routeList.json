@@ -1,0 +1,9751 @@
+{
+  "lineNumber": "ICD1010",
+  "station": "Amsterdam Centraal",
+  "time": "0553",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1012",
+  "station": "Amsterdam Centraal",
+  "time": "0622",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1014",
+  "station": "Amsterdam Centraal",
+  "time": "0653",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1016",
+  "station": "Amsterdam Centraal",
+  "time": "0722",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1018",
+  "station": "Amsterdam Centraal",
+  "time": "0753",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1020",
+  "station": "Amsterdam Centraal",
+  "time": "0822",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1022",
+  "station": "Amsterdam Centraal",
+  "time": "0853",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1024",
+  "station": "Amsterdam Centraal",
+  "time": "0922",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1026",
+  "station": "Amsterdam Centraal",
+  "time": "0953",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1028",
+  "station": "Amsterdam Centraal",
+  "time": "1022",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1030",
+  "station": "Amsterdam Centraal",
+  "time": "1053",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1032",
+  "station": "Amsterdam Centraal",
+  "time": "1122",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1034",
+  "station": "Amsterdam Centraal",
+  "time": "1153",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1036",
+  "station": "Amsterdam Centraal",
+  "time": "1222",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1038",
+  "station": "Amsterdam Centraal",
+  "time": "1253",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1040",
+  "station": "Amsterdam Centraal",
+  "time": "1322",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1042",
+  "station": "Amsterdam Centraal",
+  "time": "1353",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1044",
+  "station": "Amsterdam Centraal",
+  "time": "1422",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1046",
+  "station": "Amsterdam Centraal",
+  "time": "1453",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1048",
+  "station": "Amsterdam Centraal",
+  "time": "1522",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1050",
+  "station": "Amsterdam Centraal",
+  "time": "1553",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1052",
+  "station": "Amsterdam Centraal",
+  "time": "1622",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1054",
+  "station": "Amsterdam Centraal",
+  "time": "1653",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1056",
+  "station": "Amsterdam Centraal",
+  "time": "1722",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1058",
+  "station": "Amsterdam Centraal",
+  "time": "1753",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1060",
+  "station": "Amsterdam Centraal",
+  "time": "1822",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1062",
+  "station": "Amsterdam Centraal",
+  "time": "1853",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1064",
+  "station": "Amsterdam Centraal",
+  "time": "1922",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1066",
+  "station": "Amsterdam Centraal",
+  "time": "1953",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1068",
+  "station": "Amsterdam Centraal",
+  "time": "2022",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1070",
+  "station": "Amsterdam Centraal",
+  "time": "2053",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1072",
+  "station": "Amsterdam Centraal",
+  "time": "2122",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD976",
+  "station": "Amsterdam Centraal",
+  "time": "2238",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1010",
+  "station": "Schiphol Airport",
+  "time": "0608",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1012",
+  "station": "Schiphol Airport",
+  "time": "0637",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1014",
+  "station": "Schiphol Airport",
+  "time": "0708",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1016",
+  "station": "Schiphol Airport",
+  "time": "0737",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1018",
+  "station": "Schiphol Airport",
+  "time": "0808",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1020",
+  "station": "Schiphol Airport",
+  "time": "0837",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1022",
+  "station": "Schiphol Airport",
+  "time": "0908",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1024",
+  "station": "Schiphol Airport",
+  "time": "0937",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1026",
+  "station": "Schiphol Airport",
+  "time": "1008",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1028",
+  "station": "Schiphol Airport",
+  "time": "1037",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1030",
+  "station": "Schiphol Airport",
+  "time": "1108",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1032",
+  "station": "Schiphol Airport",
+  "time": "1137",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1034",
+  "station": "Schiphol Airport",
+  "time": "1208",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1036",
+  "station": "Schiphol Airport",
+  "time": "1237",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1038",
+  "station": "Schiphol Airport",
+  "time": "1308",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1040",
+  "station": "Schiphol Airport",
+  "time": "1337",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1042",
+  "station": "Schiphol Airport",
+  "time": "1408",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1044",
+  "station": "Schiphol Airport",
+  "time": "1437",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1046",
+  "station": "Schiphol Airport",
+  "time": "1508",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1048",
+  "station": "Schiphol Airport",
+  "time": "1537",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1050",
+  "station": "Schiphol Airport",
+  "time": "1608",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1052",
+  "station": "Schiphol Airport",
+  "time": "1637",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1054",
+  "station": "Schiphol Airport",
+  "time": "1708",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1056",
+  "station": "Schiphol Airport",
+  "time": "1737",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1058",
+  "station": "Schiphol Airport",
+  "time": "1808",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1060",
+  "station": "Schiphol Airport",
+  "time": "1837",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1062",
+  "station": "Schiphol Airport",
+  "time": "1908",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1064",
+  "station": "Schiphol Airport",
+  "time": "1937",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1066",
+  "station": "Schiphol Airport",
+  "time": "2008",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1068",
+  "station": "Schiphol Airport",
+  "time": "2037",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1070",
+  "station": "Schiphol Airport",
+  "time": "2108",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1072",
+  "station": "Schiphol Airport",
+  "time": "2137",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD976",
+  "station": "Schiphol Airport",
+  "time": "2253",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1010",
+  "station": "Rotterdam Centraal",
+  "time": "0634",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1012",
+  "station": "Rotterdam Centraal",
+  "time": "0703",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1014",
+  "station": "Rotterdam Centraal",
+  "time": "0734",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1016",
+  "station": "Rotterdam Centraal",
+  "time": "0803",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1018",
+  "station": "Rotterdam Centraal",
+  "time": "0834",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1020",
+  "station": "Rotterdam Centraal",
+  "time": "0903",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1022",
+  "station": "Rotterdam Centraal",
+  "time": "0934",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1024",
+  "station": "Rotterdam Centraal",
+  "time": "1003",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1026",
+  "station": "Rotterdam Centraal",
+  "time": "1034",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1028",
+  "station": "Rotterdam Centraal",
+  "time": "1103",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1030",
+  "station": "Rotterdam Centraal",
+  "time": "1134",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1032",
+  "station": "Rotterdam Centraal",
+  "time": "1203",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1034",
+  "station": "Rotterdam Centraal",
+  "time": "1234",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1036",
+  "station": "Rotterdam Centraal",
+  "time": "1303",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1038",
+  "station": "Rotterdam Centraal",
+  "time": "1334",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1040",
+  "station": "Rotterdam Centraal",
+  "time": "1403",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1042",
+  "station": "Rotterdam Centraal",
+  "time": "1434",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1044",
+  "station": "Rotterdam Centraal",
+  "time": "1503",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1046",
+  "station": "Rotterdam Centraal",
+  "time": "1534",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1048",
+  "station": "Rotterdam Centraal",
+  "time": "1603",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1050",
+  "station": "Rotterdam Centraal",
+  "time": "1634",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1052",
+  "station": "Rotterdam Centraal",
+  "time": "1703",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1054",
+  "station": "Rotterdam Centraal",
+  "time": "1734",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1056",
+  "station": "Rotterdam Centraal",
+  "time": "1803",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1058",
+  "station": "Rotterdam Centraal",
+  "time": "1834",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1060",
+  "station": "Rotterdam Centraal",
+  "time": "1903",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1062",
+  "station": "Rotterdam Centraal",
+  "time": "1934",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1064",
+  "station": "Rotterdam Centraal",
+  "time": "2003",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1066",
+  "station": "Rotterdam Centraal",
+  "time": "2034",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1068",
+  "station": "Rotterdam Centraal",
+  "time": "2103",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1070",
+  "station": "Rotterdam Centraal",
+  "time": "2134",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1072",
+  "station": "Rotterdam Centraal",
+  "time": "2203",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD976",
+  "station": "Rotterdam Centraal",
+  "time": "2319",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9694",
+  "station": "Den Haag HS",
+  "time": "1040",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9694",
+  "station": "Rotterdam Centraal",
+  "time": "1058",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9694",
+  "station": "Rotterdam Centraal",
+  "time": "1110",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9694",
+  "station": "Breda",
+  "time": "1134",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9696",
+  "station": "Den Haag HS",
+  "time": "1440",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9696",
+  "station": "Rotterdam Centraal",
+  "time": "1458",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9696",
+  "station": "Rotterdam Centraal",
+  "time": "1510",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9696",
+  "station": "Breda",
+  "time": "1534",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9698",
+  "station": "Den Haag HS",
+  "time": "1840",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9698",
+  "station": "Rotterdam Centraal",
+  "time": "1858",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9698",
+  "station": "Rotterdam Centraal",
+  "time": "1910",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9698",
+  "station": "Breda",
+  "time": "1934",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1921",
+  "station": "Dordrecht",
+  "time": "0618",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1921",
+  "station": "Breda",
+  "time": "0640",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1921",
+  "station": "Breda",
+  "time": "0645",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1921",
+  "station": "Tilburg",
+  "time": "0658",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1921",
+  "station": "Boxtel",
+  "time": "0713",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1921",
+  "station": "Eindhoven Centraal",
+  "time": "0725",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1933",
+  "station": "Dordrecht",
+  "time": "0918",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1933",
+  "station": "Breda",
+  "time": "0940",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1933",
+  "station": "Breda",
+  "time": "0945",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1933",
+  "station": "Tilburg",
+  "time": "0958",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1933",
+  "station": "Boxtel",
+  "time": "1015",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1933",
+  "station": "Eindhoven Centraal",
+  "time": "1028",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1949",
+  "station": "Dordrecht",
+  "time": "1318",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1949",
+  "station": "Breda",
+  "time": "1340",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1949",
+  "station": "Breda",
+  "time": "1345",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1949",
+  "station": "Tilburg",
+  "time": "1358",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1949",
+  "station": "Boxtel",
+  "time": "1415",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1949",
+  "station": "Eindhoven Centraal",
+  "time": "1428",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1965",
+  "station": "Dordrecht",
+  "time": "1718",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1965",
+  "station": "Breda",
+  "time": "1740",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1965",
+  "station": "Breda",
+  "time": "1745",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1965",
+  "station": "Tilburg",
+  "time": "1758",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1965",
+  "station": "Boxtel",
+  "time": "1815",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1965",
+  "station": "Eindhoven Centraal",
+  "time": "1828",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "ICD910",
+  "station": "Amsterdam Centraal",
+  "time": "0608",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD910",
+  "station": "Schiphol Airport",
+  "time": "0623",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD910",
+  "station": "Rotterdam Centraal",
+  "time": "0649",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD910",
+  "station": "Rotterdam Centraal",
+  "time": "0651",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD910",
+  "station": "Breda",
+  "time": "0715",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC9692",
+  "station": "Amsterdam Centraal",
+  "time": "0556",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9692",
+  "station": "Schiphol Airport",
+  "time": "0611",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9692",
+  "station": "Den Haag HS",
+  "time": "0640",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9692",
+  "station": "Rotterdam Centraal",
+  "time": "0658",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9692",
+  "station": "Rotterdam Centraal",
+  "time": "0710",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9692",
+  "station": "Breda",
+  "time": "0734",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD912",
+  "station": "Amsterdam Centraal",
+  "time": "0638",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD912",
+  "station": "Schiphol Airport",
+  "time": "0653",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD912",
+  "station": "Rotterdam Centraal",
+  "time": "0719",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD912",
+  "station": "Rotterdam Centraal",
+  "time": "0721",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD912",
+  "station": "Breda",
+  "time": "0745",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD914",
+  "station": "Amsterdam Centraal",
+  "time": "0708",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD914",
+  "station": "Schiphol Airport",
+  "time": "0723",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD914",
+  "station": "Rotterdam Centraal",
+  "time": "0749",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD914",
+  "station": "Rotterdam Centraal",
+  "time": "0751",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD914",
+  "station": "Breda",
+  "time": "0815",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9216",
+  "station": "Amsterdam Centraal",
+  "time": "0725",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9216",
+  "station": "Schiphol Airport",
+  "time": "0740",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9216",
+  "station": "Rotterdam Centraal",
+  "time": "0806",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9216",
+  "station": "Rotterdam Centraal",
+  "time": "0810",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9216",
+  "station": "Breda",
+  "time": "0834",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD916",
+  "station": "Amsterdam Centraal",
+  "time": "0738",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD916",
+  "station": "Schiphol Airport",
+  "time": "0753",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD916",
+  "station": "Rotterdam Centraal",
+  "time": "0819",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD916",
+  "station": "Rotterdam Centraal",
+  "time": "0821",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD916",
+  "station": "Breda",
+  "time": "0845",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD918",
+  "station": "Amsterdam Centraal",
+  "time": "0808",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD918",
+  "station": "Schiphol Airport",
+  "time": "0823",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD918",
+  "station": "Rotterdam Centraal",
+  "time": "0849",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD918",
+  "station": "Rotterdam Centraal",
+  "time": "0851",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD918",
+  "station": "Breda",
+  "time": "0915",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9220",
+  "station": "Amsterdam Centraal",
+  "time": "0825",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9220",
+  "station": "Schiphol Airport",
+  "time": "0840",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9220",
+  "station": "Rotterdam Centraal",
+  "time": "0906",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9220",
+  "station": "Rotterdam Centraal",
+  "time": "0910",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9220",
+  "station": "Breda",
+  "time": "0934",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD920",
+  "station": "Amsterdam Centraal",
+  "time": "0838",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD920",
+  "station": "Schiphol Airport",
+  "time": "0853",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD920",
+  "station": "Rotterdam Centraal",
+  "time": "0919",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD920",
+  "station": "Rotterdam Centraal",
+  "time": "0921",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD920",
+  "station": "Breda",
+  "time": "0945",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD922",
+  "station": "Amsterdam Centraal",
+  "time": "0908",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD922",
+  "station": "Schiphol Airport",
+  "time": "0923",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD922",
+  "station": "Rotterdam Centraal",
+  "time": "0949",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD922",
+  "station": "Rotterdam Centraal",
+  "time": "0951",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD922",
+  "station": "Breda",
+  "time": "1015",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9224",
+  "station": "Amsterdam Centraal",
+  "time": "0925",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9224",
+  "station": "Schiphol Airport",
+  "time": "0940",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9224",
+  "station": "Rotterdam Centraal",
+  "time": "1006",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9224",
+  "station": "Rotterdam Centraal",
+  "time": "1010",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9224",
+  "station": "Breda",
+  "time": "1034",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD924",
+  "station": "Amsterdam Centraal",
+  "time": "0938",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD924",
+  "station": "Schiphol Airport",
+  "time": "0953",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD924",
+  "station": "Rotterdam Centraal",
+  "time": "1019",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD924",
+  "station": "Rotterdam Centraal",
+  "time": "1021",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD924",
+  "station": "Breda",
+  "time": "1045",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD926",
+  "station": "Amsterdam Centraal",
+  "time": "1008",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD926",
+  "station": "Schiphol Airport",
+  "time": "1023",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD926",
+  "station": "Rotterdam Centraal",
+  "time": "1049",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD926",
+  "station": "Rotterdam Centraal",
+  "time": "1051",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD926",
+  "station": "Breda",
+  "time": "1115",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD928",
+  "station": "Amsterdam Centraal",
+  "time": "1038",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD928",
+  "station": "Schiphol Airport",
+  "time": "1053",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD928",
+  "station": "Rotterdam Centraal",
+  "time": "1119",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD928",
+  "station": "Rotterdam Centraal",
+  "time": "1121",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD928",
+  "station": "Breda",
+  "time": "1145",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD930",
+  "station": "Amsterdam Centraal",
+  "time": "1108",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD930",
+  "station": "Schiphol Airport",
+  "time": "1123",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD930",
+  "station": "Rotterdam Centraal",
+  "time": "1149",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD930",
+  "station": "Rotterdam Centraal",
+  "time": "1151",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD930",
+  "station": "Breda",
+  "time": "1215",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9232",
+  "station": "Amsterdam Centraal",
+  "time": "1125",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9232",
+  "station": "Schiphol Airport",
+  "time": "1140",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9232",
+  "station": "Rotterdam Centraal",
+  "time": "1206",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9232",
+  "station": "Rotterdam Centraal",
+  "time": "1210",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9232",
+  "station": "Breda",
+  "time": "1234",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD932",
+  "station": "Amsterdam Centraal",
+  "time": "1138",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD932",
+  "station": "Schiphol Airport",
+  "time": "1153",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD932",
+  "station": "Rotterdam Centraal",
+  "time": "1219",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD932",
+  "station": "Rotterdam Centraal",
+  "time": "1221",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD932",
+  "station": "Breda",
+  "time": "1245",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD934",
+  "station": "Amsterdam Centraal",
+  "time": "1208",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD934",
+  "station": "Schiphol Airport",
+  "time": "1223",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD934",
+  "station": "Rotterdam Centraal",
+  "time": "1249",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD934",
+  "station": "Rotterdam Centraal",
+  "time": "1251",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD934",
+  "station": "Breda",
+  "time": "1315",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9236",
+  "station": "Amsterdam Centraal",
+  "time": "1225",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9236",
+  "station": "Schiphol Airport",
+  "time": "1240",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9236",
+  "station": "Rotterdam Centraal",
+  "time": "1306",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9236",
+  "station": "Rotterdam Centraal",
+  "time": "1310",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9236",
+  "station": "Breda",
+  "time": "1334",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD936",
+  "station": "Amsterdam Centraal",
+  "time": "1238",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD936",
+  "station": "Schiphol Airport",
+  "time": "1253",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD936",
+  "station": "Rotterdam Centraal",
+  "time": "1319",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD936",
+  "station": "Rotterdam Centraal",
+  "time": "1321",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD936",
+  "station": "Breda",
+  "time": "1345",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD938",
+  "station": "Amsterdam Centraal",
+  "time": "1308",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD938",
+  "station": "Schiphol Airport",
+  "time": "1323",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD938",
+  "station": "Rotterdam Centraal",
+  "time": "1349",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD938",
+  "station": "Rotterdam Centraal",
+  "time": "1351",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD938",
+  "station": "Breda",
+  "time": "1415",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9240",
+  "station": "Amsterdam Centraal",
+  "time": "1325",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9240",
+  "station": "Schiphol Airport",
+  "time": "1340",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9240",
+  "station": "Rotterdam Centraal",
+  "time": "1406",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9240",
+  "station": "Rotterdam Centraal",
+  "time": "1410",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9240",
+  "station": "Breda",
+  "time": "1434",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD940",
+  "station": "Amsterdam Centraal",
+  "time": "1338",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD940",
+  "station": "Schiphol Airport",
+  "time": "1353",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD940",
+  "station": "Rotterdam Centraal",
+  "time": "1419",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD940",
+  "station": "Rotterdam Centraal",
+  "time": "1421",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD940",
+  "station": "Breda",
+  "time": "1445",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD942",
+  "station": "Amsterdam Centraal",
+  "time": "1408",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD942",
+  "station": "Schiphol Airport",
+  "time": "1423",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD942",
+  "station": "Rotterdam Centraal",
+  "time": "1449",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD942",
+  "station": "Rotterdam Centraal",
+  "time": "1451",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD942",
+  "station": "Breda",
+  "time": "1515",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD944",
+  "station": "Amsterdam Centraal",
+  "time": "1038",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD944",
+  "station": "Schiphol Airport",
+  "time": "1453",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD944",
+  "station": "Rotterdam Centraal",
+  "time": "1519",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD944",
+  "station": "Rotterdam Centraal",
+  "time": "1521",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD944",
+  "station": "Breda",
+  "time": "1545",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD946",
+  "station": "Amsterdam Centraal",
+  "time": "1508",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD946",
+  "station": "Schiphol Airport",
+  "time": "1523",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD946",
+  "station": "Rotterdam Centraal",
+  "time": "1549",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD946",
+  "station": "Rotterdam Centraal",
+  "time": "1551",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD946",
+  "station": "Breda",
+  "time": "1615",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9248",
+  "station": "Amsterdam Centraal",
+  "time": "1525",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9248",
+  "station": "Schiphol Airport",
+  "time": "1540",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9248",
+  "station": "Rotterdam Centraal",
+  "time": "1606",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9248",
+  "station": "Rotterdam Centraal",
+  "time": "1610",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9248",
+  "station": "Breda",
+  "time": "1634",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD948",
+  "station": "Amsterdam Centraal",
+  "time": "1538",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD948",
+  "station": "Schiphol Airport",
+  "time": "1553",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD948",
+  "station": "Rotterdam Centraal",
+  "time": "1619",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD948",
+  "station": "Rotterdam Centraal",
+  "time": "1621",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD948",
+  "station": "Breda",
+  "time": "1645",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD950",
+  "station": "Amsterdam Centraal",
+  "time": "1608",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD950",
+  "station": "Schiphol Airport",
+  "time": "1623",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD950",
+  "station": "Rotterdam Centraal",
+  "time": "1649",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD950",
+  "station": "Rotterdam Centraal",
+  "time": "1651",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD950",
+  "station": "Breda",
+  "time": "1715",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9252",
+  "station": "Amsterdam Centraal",
+  "time": "1625",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9252",
+  "station": "Schiphol Airport",
+  "time": "1640",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9252",
+  "station": "Rotterdam Centraal",
+  "time": "1706",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9252",
+  "station": "Rotterdam Centraal",
+  "time": "1710",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9252",
+  "station": "Breda",
+  "time": "1734",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD952",
+  "station": "Amsterdam Centraal",
+  "time": "1638",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD952",
+  "station": "Schiphol Airport",
+  "time": "1653",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD952",
+  "station": "Rotterdam Centraal",
+  "time": "1719",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD952",
+  "station": "Rotterdam Centraal",
+  "time": "1721",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD952",
+  "station": "Breda",
+  "time": "1745",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD954",
+  "station": "Amsterdam Centraal",
+  "time": "1708",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD954",
+  "station": "Schiphol Airport",
+  "time": "1723",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD954",
+  "station": "Rotterdam Centraal",
+  "time": "1749",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD954",
+  "station": "Rotterdam Centraal",
+  "time": "1751",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD954",
+  "station": "Breda",
+  "time": "1815",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9256",
+  "station": "Amsterdam Centraal",
+  "time": "1725",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9256",
+  "station": "Schiphol Airport",
+  "time": "1740",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9256",
+  "station": "Rotterdam Centraal",
+  "time": "1806",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9256",
+  "station": "Rotterdam Centraal",
+  "time": "1810",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9256",
+  "station": "Breda",
+  "time": "1834",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD956",
+  "station": "Amsterdam Centraal",
+  "time": "1738",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD956",
+  "station": "Schiphol Airport",
+  "time": "1753",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD956",
+  "station": "Rotterdam Centraal",
+  "time": "1819",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD956",
+  "station": "Rotterdam Centraal",
+  "time": "1821",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD956",
+  "station": "Breda",
+  "time": "1845",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD958",
+  "station": "Amsterdam Centraal",
+  "time": "1808",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD958",
+  "station": "Schiphol Airport",
+  "time": "1823",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD958",
+  "station": "Rotterdam Centraal",
+  "time": "1849",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD958",
+  "station": "Rotterdam Centraal",
+  "time": "1851",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD958",
+  "station": "Breda",
+  "time": "1915",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD960",
+  "station": "Amsterdam Centraal",
+  "time": "1838",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD960",
+  "station": "Schiphol Airport",
+  "time": "1853",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD960",
+  "station": "Rotterdam Centraal",
+  "time": "1919",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD960",
+  "station": "Rotterdam Centraal",
+  "time": "1921",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD960",
+  "station": "Breda",
+  "time": "1945",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD962",
+  "station": "Amsterdam Centraal",
+  "time": "1908",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD962",
+  "station": "Schiphol Airport",
+  "time": "1923",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD962",
+  "station": "Rotterdam Centraal",
+  "time": "1949",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD962",
+  "station": "Rotterdam Centraal",
+  "time": "1951",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD962",
+  "station": "Breda",
+  "time": "2015",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9264",
+  "station": "Amsterdam Centraal",
+  "time": "1925",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9264",
+  "station": "Schiphol Airport",
+  "time": "1940",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9264",
+  "station": "Rotterdam Centraal",
+  "time": "2006",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9264",
+  "station": "Rotterdam Centraal",
+  "time": "2010",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9264",
+  "station": "Breda",
+  "time": "2034",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD964",
+  "station": "Amsterdam Centraal",
+  "time": "1938",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD964",
+  "station": "Schiphol Airport",
+  "time": "1953",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD964",
+  "station": "Rotterdam Centraal",
+  "time": "2019",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD964",
+  "station": "Rotterdam Centraal",
+  "time": "2021",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD964",
+  "station": "Breda",
+  "time": "2045",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD966",
+  "station": "Amsterdam Centraal",
+  "time": "2008",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD966",
+  "station": "Schiphol Airport",
+  "time": "2023",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD966",
+  "station": "Rotterdam Centraal",
+  "time": "2049",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD966",
+  "station": "Rotterdam Centraal",
+  "time": "2051",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD966",
+  "station": "Breda",
+  "time": "2115",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9268",
+  "station": "Amsterdam Centraal",
+  "time": "2025",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9268",
+  "station": "Schiphol Airport",
+  "time": "2040",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9268",
+  "station": "Rotterdam Centraal",
+  "time": "2106",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9268",
+  "station": "Rotterdam Centraal",
+  "time": "2110",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9268",
+  "station": "Breda",
+  "time": "2134",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD968",
+  "station": "Amsterdam Centraal",
+  "time": "2038",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD968",
+  "station": "Schiphol Airport",
+  "time": "2053",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD968",
+  "station": "Rotterdam Centraal",
+  "time": "2119",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD968",
+  "station": "Rotterdam Centraal",
+  "time": "2121",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD968",
+  "station": "Breda",
+  "time": "2145",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD970",
+  "station": "Amsterdam Centraal",
+  "time": "2108",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD970",
+  "station": "Schiphol Airport",
+  "time": "2123",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD970",
+  "station": "Rotterdam Centraal",
+  "time": "2149",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD970",
+  "station": "Rotterdam Centraal",
+  "time": "2151",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD970",
+  "station": "Breda",
+  "time": "2215",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9272",
+  "station": "Amsterdam Centraal",
+  "time": "2125",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9272",
+  "station": "Schiphol Airport",
+  "time": "2140",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9272",
+  "station": "Rotterdam Centraal",
+  "time": "2206",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9272",
+  "station": "Rotterdam Centraal",
+  "time": "2210",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9272",
+  "station": "Breda",
+  "time": "2234",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD972",
+  "station": "Amsterdam Centraal",
+  "time": "2138",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD972",
+  "station": "Schiphol Airport",
+  "time": "2153",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD972",
+  "station": "Rotterdam Centraal",
+  "time": "2219",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD972",
+  "station": "Rotterdam Centraal",
+  "time": "2221",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD972",
+  "station": "Breda",
+  "time": "2245",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD974",
+  "station": "Amsterdam Centraal",
+  "time": "2208",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD974",
+  "station": "Schiphol Airport",
+  "time": "2223",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD974",
+  "station": "Rotterdam Centraal",
+  "time": "2249",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD974",
+  "station": "Rotterdam Centraal",
+  "time": "2251",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD974",
+  "station": "Breda",
+  "time": "2315",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD978",
+  "station": "Amsterdam Centraal",
+  "time": "2308",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD978",
+  "station": "Schiphol Airport",
+  "time": "2323",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD978",
+  "station": "Rotterdam Centraal",
+  "time": "2349",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD978",
+  "station": "Rotterdam Centraal",
+  "time": "2351",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD978",
+  "station": "Breda",
+  "time": "0015",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1117",
+  "station": "Den Haag HS",
+  "time": "0523",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1117",
+  "station": "Delft",
+  "time": "0530",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1117",
+  "station": "Rotterdam Centraal",
+  "time": "0542",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1117",
+  "station": "Rotterdam Centraal",
+  "time": "0544",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1117",
+  "station": "Breda",
+  "time": "0607",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1117",
+  "station": "Breda",
+  "time": "0608",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1117",
+  "station": "Tilburg",
+  "time": "0621",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1117",
+  "station": "Eindhoven Centraal",
+  "time": "0645",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1119",
+  "station": "Den Haag Centraal",
+  "time": "0547",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1119",
+  "station": "Den Haag HS",
+  "time": "0553",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1119",
+  "station": "Delft",
+  "time": "0600",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1119",
+  "station": "Rotterdam Centraal",
+  "time": "0612",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1119",
+  "station": "Rotterdam Centraal",
+  "time": "0614",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1119",
+  "station": "Breda",
+  "time": "0637",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1119",
+  "station": "Breda",
+  "time": "0638",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1119",
+  "station": "Tilburg",
+  "time": "0651",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1119",
+  "station": "Eindhoven Centraal",
+  "time": "0715",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1121",
+  "station": "Den Haag Centraal",
+  "time": "0617",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1121",
+  "station": "Den Haag HS",
+  "time": "0623",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1121",
+  "station": "Delft",
+  "time": "0630",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1121",
+  "station": "Rotterdam Centraal",
+  "time": "0642",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1121",
+  "station": "Rotterdam Centraal",
+  "time": "0644",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1121",
+  "station": "Breda",
+  "time": "0707",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1121",
+  "station": "Breda",
+  "time": "0708",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1121",
+  "station": "Tilburg",
+  "time": "0721",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1121",
+  "station": "Eindhoven Centraal",
+  "time": "0745",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1123",
+  "station": "Den Haag Centraal",
+  "time": "0647",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1123",
+  "station": "Den Haag HS",
+  "time": "0653",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1123",
+  "station": "Delft",
+  "time": "0700",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1123",
+  "station": "Rotterdam Centraal",
+  "time": "0712",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1123",
+  "station": "Rotterdam Centraal",
+  "time": "0714",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1123",
+  "station": "Breda",
+  "time": "0737",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1123",
+  "station": "Breda",
+  "time": "0738",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1123",
+  "station": "Tilburg",
+  "time": "0751",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1123",
+  "station": "Eindhoven Centraal",
+  "time": "0815",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1125",
+  "station": "Den Haag Centraal",
+  "time": "0717",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1125",
+  "station": "Den Haag HS",
+  "time": "0723",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1125",
+  "station": "Delft",
+  "time": "0730",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1125",
+  "station": "Rotterdam Centraal",
+  "time": "0742",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1125",
+  "station": "Rotterdam Centraal",
+  "time": "0744",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1125",
+  "station": "Breda",
+  "time": "0807",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1125",
+  "station": "Breda",
+  "time": "0808",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1125",
+  "station": "Tilburg",
+  "time": "0821",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1125",
+  "station": "Eindhoven Centraal",
+  "time": "0845",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1127",
+  "station": "Den Haag Centraal",
+  "time": "0747",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1127",
+  "station": "Den Haag HS",
+  "time": "0753",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1127",
+  "station": "Delft",
+  "time": "0800",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1127",
+  "station": "Rotterdam Centraal",
+  "time": "0812",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1127",
+  "station": "Rotterdam Centraal",
+  "time": "0814",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1127",
+  "station": "Breda",
+  "time": "0837",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1127",
+  "station": "Breda",
+  "time": "0838",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1127",
+  "station": "Tilburg",
+  "time": "0851",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1127",
+  "station": "Eindhoven Centraal",
+  "time": "0915",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1129",
+  "station": "Den Haag Centraal",
+  "time": "0817",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1129",
+  "station": "Den Haag HS",
+  "time": "0823",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1129",
+  "station": "Delft",
+  "time": "0830",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1129",
+  "station": "Rotterdam Centraal",
+  "time": "0842",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1129",
+  "station": "Rotterdam Centraal",
+  "time": "0844",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1129",
+  "station": "Breda",
+  "time": "0907",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1129",
+  "station": "Breda",
+  "time": "0908",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1129",
+  "station": "Tilburg",
+  "time": "0921",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1129",
+  "station": "Eindhoven Centraal",
+  "time": "0945",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1131",
+  "station": "Den Haag Centraal",
+  "time": "0847",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1131",
+  "station": "Den Haag HS",
+  "time": "0853",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1131",
+  "station": "Delft",
+  "time": "0900",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1131",
+  "station": "Rotterdam Centraal",
+  "time": "0912",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1131",
+  "station": "Rotterdam Centraal",
+  "time": "0914",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1131",
+  "station": "Breda",
+  "time": "0937",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1131",
+  "station": "Breda",
+  "time": "0938",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1131",
+  "station": "Tilburg",
+  "time": "0951",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1131",
+  "station": "Eindhoven Centraal",
+  "time": "1015",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1133",
+  "station": "Den Haag Centraal",
+  "time": "0917",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1133",
+  "station": "Den Haag HS",
+  "time": "0923",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1133",
+  "station": "Delft",
+  "time": "0930",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1133",
+  "station": "Rotterdam Centraal",
+  "time": "0942",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1133",
+  "station": "Rotterdam Centraal",
+  "time": "0944",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1133",
+  "station": "Breda",
+  "time": "1007",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1133",
+  "station": "Breda",
+  "time": "1008",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1133",
+  "station": "Tilburg",
+  "time": "1021",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1133",
+  "station": "Eindhoven Centraal",
+  "time": "1045",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1135",
+  "station": "Den Haag Centraal",
+  "time": "0947",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1135",
+  "station": "Den Haag HS",
+  "time": "0953",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1135",
+  "station": "Delft",
+  "time": "1000",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1135",
+  "station": "Rotterdam Centraal",
+  "time": "1012",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1135",
+  "station": "Rotterdam Centraal",
+  "time": "1014",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1135",
+  "station": "Breda",
+  "time": "1037",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1135",
+  "station": "Breda",
+  "time": "1038",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1135",
+  "station": "Tilburg",
+  "time": "1051",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1135",
+  "station": "Eindhoven Centraal",
+  "time": "1115",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1137",
+  "station": "Den Haag Centraal",
+  "time": "1017",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1137",
+  "station": "Den Haag HS",
+  "time": "1023",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1137",
+  "station": "Delft",
+  "time": "1030",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1137",
+  "station": "Rotterdam Centraal",
+  "time": "1042",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1137",
+  "station": "Rotterdam Centraal",
+  "time": "1044",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1137",
+  "station": "Breda",
+  "time": "1107",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1137",
+  "station": "Breda",
+  "time": "1108",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1137",
+  "station": "Tilburg",
+  "time": "1121",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1137",
+  "station": "Eindhoven Centraal",
+  "time": "1145",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1139",
+  "station": "Den Haag Centraal",
+  "time": "1047",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1139",
+  "station": "Den Haag HS",
+  "time": "1053",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1139",
+  "station": "Delft",
+  "time": "1100",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1139",
+  "station": "Rotterdam Centraal",
+  "time": "1112",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1139",
+  "station": "Rotterdam Centraal",
+  "time": "1114",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1139",
+  "station": "Breda",
+  "time": "1137",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1139",
+  "station": "Breda",
+  "time": "1138",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1139",
+  "station": "Tilburg",
+  "time": "1151",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1139",
+  "station": "Eindhoven Centraal",
+  "time": "1215",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1141",
+  "station": "Den Haag Centraal",
+  "time": "1117",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1141",
+  "station": "Den Haag HS",
+  "time": "1123",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1141",
+  "station": "Delft",
+  "time": "1130",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1141",
+  "station": "Rotterdam Centraal",
+  "time": "1142",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1141",
+  "station": "Rotterdam Centraal",
+  "time": "1144",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1141",
+  "station": "Breda",
+  "time": "1207",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1141",
+  "station": "Breda",
+  "time": "1208",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1141",
+  "station": "Tilburg",
+  "time": "1221",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1141",
+  "station": "Eindhoven Centraal",
+  "time": "1245",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1143",
+  "station": "Den Haag Centraal",
+  "time": "1147",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1143",
+  "station": "Den Haag HS",
+  "time": "1153",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1143",
+  "station": "Delft",
+  "time": "1200",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1143",
+  "station": "Rotterdam Centraal",
+  "time": "1212",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1143",
+  "station": "Rotterdam Centraal",
+  "time": "1214",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1143",
+  "station": "Breda",
+  "time": "1237",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1143",
+  "station": "Breda",
+  "time": "1238",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1143",
+  "station": "Tilburg",
+  "time": "1251",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1143",
+  "station": "Eindhoven Centraal",
+  "time": "1315",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1145",
+  "station": "Den Haag Centraal",
+  "time": "1217",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1145",
+  "station": "Den Haag HS",
+  "time": "1223",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1145",
+  "station": "Delft",
+  "time": "1230",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1145",
+  "station": "Rotterdam Centraal",
+  "time": "1242",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1145",
+  "station": "Rotterdam Centraal",
+  "time": "1244",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1145",
+  "station": "Breda",
+  "time": "1307",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1145",
+  "station": "Breda",
+  "time": "1308",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1145",
+  "station": "Tilburg",
+  "time": "1321",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1145",
+  "station": "Eindhoven Centraal",
+  "time": "1345",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1147",
+  "station": "Den Haag Centraal",
+  "time": "1247",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1147",
+  "station": "Den Haag HS",
+  "time": "1253",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1147",
+  "station": "Delft",
+  "time": "1300",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1147",
+  "station": "Rotterdam Centraal",
+  "time": "1312",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1147",
+  "station": "Rotterdam Centraal",
+  "time": "1314",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1147",
+  "station": "Breda",
+  "time": "1337",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1147",
+  "station": "Breda",
+  "time": "1338",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1147",
+  "station": "Tilburg",
+  "time": "1351",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1147",
+  "station": "Eindhoven Centraal",
+  "time": "1415",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1149",
+  "station": "Den Haag Centraal",
+  "time": "1317",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1149",
+  "station": "Den Haag HS",
+  "time": "1323",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1149",
+  "station": "Delft",
+  "time": "1330",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1149",
+  "station": "Rotterdam Centraal",
+  "time": "1342",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1149",
+  "station": "Rotterdam Centraal",
+  "time": "1344",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1149",
+  "station": "Breda",
+  "time": "1407",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1149",
+  "station": "Breda",
+  "time": "1408",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1149",
+  "station": "Tilburg",
+  "time": "1421",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1149",
+  "station": "Eindhoven Centraal",
+  "time": "1445",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1151",
+  "station": "Den Haag Centraal",
+  "time": "1347",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1151",
+  "station": "Den Haag HS",
+  "time": "1353",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1151",
+  "station": "Delft",
+  "time": "1400",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1151",
+  "station": "Rotterdam Centraal",
+  "time": "1412",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1151",
+  "station": "Rotterdam Centraal",
+  "time": "1414",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1151",
+  "station": "Breda",
+  "time": "1437",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1151",
+  "station": "Breda",
+  "time": "1438",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1151",
+  "station": "Tilburg",
+  "time": "1451",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1151",
+  "station": "Eindhoven Centraal",
+  "time": "1515",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1153",
+  "station": "Den Haag Centraal",
+  "time": "1417",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1153",
+  "station": "Den Haag HS",
+  "time": "1423",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1153",
+  "station": "Delft",
+  "time": "1430",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1153",
+  "station": "Rotterdam Centraal",
+  "time": "1442",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1153",
+  "station": "Rotterdam Centraal",
+  "time": "1444",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1153",
+  "station": "Breda",
+  "time": "1507",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1153",
+  "station": "Breda",
+  "time": "1508",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1153",
+  "station": "Tilburg",
+  "time": "1521",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1153",
+  "station": "Eindhoven Centraal",
+  "time": "1545",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1155",
+  "station": "Den Haag Centraal",
+  "time": "1447",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1155",
+  "station": "Den Haag HS",
+  "time": "1453",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1155",
+  "station": "Delft",
+  "time": "1500",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1155",
+  "station": "Rotterdam Centraal",
+  "time": "1512",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1155",
+  "station": "Rotterdam Centraal",
+  "time": "1514",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1155",
+  "station": "Breda",
+  "time": "1537",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1155",
+  "station": "Breda",
+  "time": "1538",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1155",
+  "station": "Tilburg",
+  "time": "1551",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1155",
+  "station": "Eindhoven Centraal",
+  "time": "1615",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1157",
+  "station": "Den Haag Centraal",
+  "time": "1517",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1157",
+  "station": "Den Haag HS",
+  "time": "1523",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1157",
+  "station": "Delft",
+  "time": "1530",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1157",
+  "station": "Rotterdam Centraal",
+  "time": "1542",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1157",
+  "station": "Rotterdam Centraal",
+  "time": "1544",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1157",
+  "station": "Breda",
+  "time": "1607",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1157",
+  "station": "Breda",
+  "time": "1608",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1157",
+  "station": "Tilburg",
+  "time": "1621",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1157",
+  "station": "Eindhoven Centraal",
+  "time": "1645",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1159",
+  "station": "Den Haag Centraal",
+  "time": "1547",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1159",
+  "station": "Den Haag HS",
+  "time": "1553",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1159",
+  "station": "Delft",
+  "time": "1600",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1159",
+  "station": "Rotterdam Centraal",
+  "time": "1612",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1159",
+  "station": "Rotterdam Centraal",
+  "time": "1614",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1159",
+  "station": "Breda",
+  "time": "1637",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1159",
+  "station": "Breda",
+  "time": "1638",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1159",
+  "station": "Tilburg",
+  "time": "1651",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1159",
+  "station": "Eindhoven Centraal",
+  "time": "1715",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1161",
+  "station": "Den Haag Centraal",
+  "time": "1617",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1161",
+  "station": "Den Haag HS",
+  "time": "1623",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1161",
+  "station": "Delft",
+  "time": "1630",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1161",
+  "station": "Rotterdam Centraal",
+  "time": "1642",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1161",
+  "station": "Rotterdam Centraal",
+  "time": "1644",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1161",
+  "station": "Breda",
+  "time": "1707",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1161",
+  "station": "Breda",
+  "time": "1708",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1161",
+  "station": "Tilburg",
+  "time": "1721",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1161",
+  "station": "Eindhoven Centraal",
+  "time": "1745",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1163",
+  "station": "Den Haag Centraal",
+  "time": "1647",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1163",
+  "station": "Den Haag HS",
+  "time": "1653",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1163",
+  "station": "Delft",
+  "time": "1700",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1163",
+  "station": "Rotterdam Centraal",
+  "time": "1712",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1163",
+  "station": "Rotterdam Centraal",
+  "time": "1714",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1163",
+  "station": "Breda",
+  "time": "1737",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1163",
+  "station": "Breda",
+  "time": "1738",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1163",
+  "station": "Tilburg",
+  "time": "1753",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1163",
+  "station": "Eindhoven Centraal",
+  "time": "1815",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1165",
+  "station": "Den Haag Centraal",
+  "time": "1717",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1165",
+  "station": "Den Haag HS",
+  "time": "1723",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1165",
+  "station": "Delft",
+  "time": "1730",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1165",
+  "station": "Rotterdam Centraal",
+  "time": "1742",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1165",
+  "station": "Rotterdam Centraal",
+  "time": "1744",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1165",
+  "station": "Breda",
+  "time": "1807",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1165",
+  "station": "Breda",
+  "time": "1808",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1165",
+  "station": "Tilburg",
+  "time": "1821",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1165",
+  "station": "Eindhoven Centraal",
+  "time": "1845",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1167",
+  "station": "Den Haag Centraal",
+  "time": "1747",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1167",
+  "station": "Den Haag HS",
+  "time": "1753",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1167",
+  "station": "Delft",
+  "time": "1800",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1167",
+  "station": "Rotterdam Centraal",
+  "time": "1812",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1167",
+  "station": "Rotterdam Centraal",
+  "time": "1814",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1167",
+  "station": "Breda",
+  "time": "1837",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1167",
+  "station": "Breda",
+  "time": "1838",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1167",
+  "station": "Tilburg",
+  "time": "1851",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1167",
+  "station": "Eindhoven Centraal",
+  "time": "1915",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1169",
+  "station": "Den Haag Centraal",
+  "time": "1817",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1169",
+  "station": "Den Haag HS",
+  "time": "1823",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1169",
+  "station": "Delft",
+  "time": "1830",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1169",
+  "station": "Rotterdam Centraal",
+  "time": "1842",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1169",
+  "station": "Rotterdam Centraal",
+  "time": "1844",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1169",
+  "station": "Breda",
+  "time": "1907",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1169",
+  "station": "Breda",
+  "time": "1908",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1169",
+  "station": "Tilburg",
+  "time": "1921",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1169",
+  "station": "Eindhoven Centraal",
+  "time": "1945",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1171",
+  "station": "Den Haag Centraal",
+  "time": "1847",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1171",
+  "station": "Den Haag HS",
+  "time": "1853",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1171",
+  "station": "Delft",
+  "time": "1900",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1171",
+  "station": "Rotterdam Centraal",
+  "time": "1912",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1171",
+  "station": "Rotterdam Centraal",
+  "time": "1914",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1171",
+  "station": "Breda",
+  "time": "1937",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1171",
+  "station": "Breda",
+  "time": "1938",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1171",
+  "station": "Tilburg",
+  "time": "1951",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1171",
+  "station": "Eindhoven Centraal",
+  "time": "2015",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1173",
+  "station": "Den Haag Centraal",
+  "time": "1917",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1173",
+  "station": "Den Haag HS",
+  "time": "1923",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1173",
+  "station": "Delft",
+  "time": "1930",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1173",
+  "station": "Rotterdam Centraal",
+  "time": "1942",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1173",
+  "station": "Rotterdam Centraal",
+  "time": "1944",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1173",
+  "station": "Breda",
+  "time": "2007",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1173",
+  "station": "Breda",
+  "time": "2008",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1173",
+  "station": "Tilburg",
+  "time": "2021",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1173",
+  "station": "Eindhoven Centraal",
+  "time": "2045",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1175",
+  "station": "Den Haag Centraal",
+  "time": "1947",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1175",
+  "station": "Den Haag HS",
+  "time": "1953",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1175",
+  "station": "Delft",
+  "time": "2000",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1175",
+  "station": "Rotterdam Centraal",
+  "time": "2012",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1175",
+  "station": "Rotterdam Centraal",
+  "time": "2014",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1175",
+  "station": "Breda",
+  "time": "2037",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1175",
+  "station": "Breda",
+  "time": "2038",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1175",
+  "station": "Tilburg",
+  "time": "2051",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1175",
+  "station": "Eindhoven Centraal",
+  "time": "2115",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1177",
+  "station": "Den Haag Centraal",
+  "time": "2017",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1177",
+  "station": "Den Haag HS",
+  "time": "2023",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1177",
+  "station": "Delft",
+  "time": "2030",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1177",
+  "station": "Rotterdam Centraal",
+  "time": "2042",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1177",
+  "station": "Rotterdam Centraal",
+  "time": "2044",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1177",
+  "station": "Breda",
+  "time": "2107",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1177",
+  "station": "Breda",
+  "time": "2108",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1177",
+  "station": "Tilburg",
+  "time": "2121",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1177",
+  "station": "Eindhoven Centraal",
+  "time": "2145",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1179",
+  "station": "Den Haag Centraal",
+  "time": "2047",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1179",
+  "station": "Den Haag HS",
+  "time": "2053",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1179",
+  "station": "Delft",
+  "time": "2100",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1179",
+  "station": "Rotterdam Centraal",
+  "time": "2112",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1179",
+  "station": "Rotterdam Centraal",
+  "time": "2114",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1179",
+  "station": "Breda",
+  "time": "2137",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1179",
+  "station": "Breda",
+  "time": "2138",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1179",
+  "station": "Tilburg",
+  "time": "2151",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1179",
+  "station": "Eindhoven Centraal",
+  "time": "2215",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1181",
+  "station": "Den Haag Centraal",
+  "time": "2117",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1181",
+  "station": "Den Haag HS",
+  "time": "2123",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1181",
+  "station": "Delft",
+  "time": "2130",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1181",
+  "station": "Rotterdam Centraal",
+  "time": "2142",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1181",
+  "station": "Rotterdam Centraal",
+  "time": "2144",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1181",
+  "station": "Breda",
+  "time": "2207",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1181",
+  "station": "Breda",
+  "time": "2008",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1181",
+  "station": "Tilburg",
+  "time": "2221",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1181",
+  "station": "Eindhoven Centraal",
+  "time": "2245",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1183",
+  "station": "Den Haag Centraal",
+  "time": "2147",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1183",
+  "station": "Den Haag HS",
+  "time": "2153",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1183",
+  "station": "Delft",
+  "time": "2200",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1183",
+  "station": "Rotterdam Centraal",
+  "time": "2212",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1183",
+  "station": "Rotterdam Centraal",
+  "time": "2214",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1183",
+  "station": "Breda",
+  "time": "2237",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1183",
+  "station": "Breda",
+  "time": "2238",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1183",
+  "station": "Tilburg",
+  "time": "2251",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1183",
+  "station": "Eindhoven Centraal",
+  "time": "2315",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1185",
+  "station": "Den Haag Centraal",
+  "time": "2217",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1185",
+  "station": "Den Haag HS",
+  "time": "2223",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1185",
+  "station": "Delft",
+  "time": "2230",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1185",
+  "station": "Rotterdam Centraal",
+  "time": "2242",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1185",
+  "station": "Rotterdam Centraal",
+  "time": "2244",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1185",
+  "station": "Breda",
+  "time": "2307",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1185",
+  "station": "Breda",
+  "time": "2308",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1185",
+  "station": "Tilburg",
+  "time": "2321",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1185",
+  "station": "Eindhoven Centraal",
+  "time": "2345",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1187",
+  "station": "Den Haag Centraal",
+  "time": "2247",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1187",
+  "station": "Den Haag HS",
+  "time": "2253",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1187",
+  "station": "Delft",
+  "time": "2300",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1187",
+  "station": "Rotterdam Centraal",
+  "time": "2312",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1187",
+  "station": "Rotterdam Centraal",
+  "time": "2314",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1187",
+  "station": "Breda",
+  "time": "2337",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1187",
+  "station": "Breda",
+  "time": "2338",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1187",
+  "station": "Tilburg",
+  "time": "2351",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1187",
+  "station": "Eindhoven Centraal",
+  "time": "0015",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1003",
+  "station": "Rotterdam Centraal",
+  "time": "0626",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1003",
+  "station": "Schiphol Airport",
+  "time": "0653",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1003",
+  "station": "Amsterdam Centraal",
+  "time": "0707",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1114",
+  "station": "Eindhoven Centraal",
+  "time": "0544",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1114",
+  "station": "Tilburg",
+  "time": "0609",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1114",
+  "station": "Breda",
+  "time": "0621",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1114",
+  "station": "Breda",
+  "time": "0623",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1114",
+  "station": "Rotterdam Centraal",
+  "time": "0646",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1114",
+  "station": "Rotterdam Centraal",
+  "time": "0648",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1114",
+  "station": "Delft",
+  "time": "0659",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1114",
+  "station": "Den Haag HS",
+  "time": "0708",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1114",
+  "station": "Den Haag Centraal",
+  "time": "0712",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "ICD1005",
+  "station": "Rotterdam Centraal",
+  "time": "0655",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1005",
+  "station": "Schiphol Airport",
+  "time": "0721",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1005",
+  "station": "Amsterdam Centraal",
+  "time": "0735",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD905",
+  "station": "Breda",
+  "time": "0645",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD905",
+  "station": "Rotterdam Centraal",
+  "time": "0708",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD905",
+  "station": "Rotterdam Centraal",
+  "time": "0710",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD905",
+  "station": "Schiphol Airport",
+  "time": "0737",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD905",
+  "station": "Amsterdam Centraal",
+  "time": "0751",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1116",
+  "station": "Eindhoven Centraal",
+  "time": "0614",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1116",
+  "station": "Tilburg",
+  "time": "0639",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1116",
+  "station": "Breda",
+  "time": "0651",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1116",
+  "station": "Breda",
+  "time": "0653",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1116",
+  "station": "Rotterdam Centraal",
+  "time": "0716",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1116",
+  "station": "Rotterdam Centraal",
+  "time": "0718",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1116",
+  "station": "Delft",
+  "time": "0729",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1116",
+  "station": "Den Haag HS",
+  "time": "0738",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1116",
+  "station": "Den Haag Centraal",
+  "time": "0742",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "ICD1007",
+  "station": "Rotterdam Centraal",
+  "time": "0726",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1007",
+  "station": "Schiphol Airport",
+  "time": "0753",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1007",
+  "station": "Amsterdam Centraal",
+  "time": "0807",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD907",
+  "station": "Breda",
+  "time": "0715",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD907",
+  "station": "Rotterdam Centraal",
+  "time": "0738",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD907",
+  "station": "Rotterdam Centraal",
+  "time": "0740",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD907",
+  "station": "Schiphol Airport",
+  "time": "0807",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD907",
+  "station": "Amsterdam Centraal",
+  "time": "0821",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1118",
+  "station": "Eindhoven Centraal",
+  "time": "0644",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1118",
+  "station": "Tilburg",
+  "time": "0709",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1118",
+  "station": "Breda",
+  "time": "0721",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1118",
+  "station": "Breda",
+  "time": "0723",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1118",
+  "station": "Rotterdam Centraal",
+  "time": "0746",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1118",
+  "station": "Rotterdam Centraal",
+  "time": "0748",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1118",
+  "station": "Delft",
+  "time": "0759",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1118",
+  "station": "Den Haag HS",
+  "time": "0808",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1118",
+  "station": "Den Haag Centraal",
+  "time": "0812",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1009",
+  "station": "Rotterdam Centraal",
+  "time": "0755",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1009",
+  "station": "Schiphol Airport",
+  "time": "0821",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1009",
+  "station": "Amsterdam Centraal",
+  "time": "0835",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD9211",
+  "station": "Breda",
+  "time": "0726",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9211",
+  "station": "Rotterdam Centraal",
+  "time": "0749",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9211",
+  "station": "Rotterdam Centraal",
+  "time": "0758",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9211",
+  "station": "Schiphol Airport",
+  "time": "0824",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9211",
+  "station": "Amsterdam Centraal",
+  "time": "0838",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD909",
+  "station": "Breda",
+  "time": "0745",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD909",
+  "station": "Rotterdam Centraal",
+  "time": "0808",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD909",
+  "station": "Rotterdam Centraal",
+  "time": "0810",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD909",
+  "station": "Schiphol Airport",
+  "time": "0837",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD909",
+  "station": "Amsterdam Centraal",
+  "time": "0851",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1120",
+  "station": "Eindhoven Centraal",
+  "time": "0714",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1120",
+  "station": "Tilburg",
+  "time": "0739",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1120",
+  "station": "Breda",
+  "time": "0751",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1120",
+  "station": "Breda",
+  "time": "0753",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1120",
+  "station": "Rotterdam Centraal",
+  "time": "0816",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1120",
+  "station": "Rotterdam Centraal",
+  "time": "0818",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1120",
+  "station": "Delft",
+  "time": "0829",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1120",
+  "station": "Den Haag HS",
+  "time": "0838",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC1120",
+  "station": "Den Haag Centraal",
+  "time": "0842",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1011",
+  "station": "Rotterdam Centraal",
+  "time": "0826",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1011",
+  "station": "Schiphol Airport",
+  "time": "0853",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1011",
+  "station": "Amsterdam Centraal",
+  "time": "0907",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD911",
+  "station": "Breda",
+  "time": "0815",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD911",
+  "station": "Rotterdam Centraal",
+  "time": "0838",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD911",
+  "station": "Rotterdam Centraal",
+  "time": "0840",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD911",
+  "station": "Schiphol Airport",
+  "time": "0907",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD911",
+  "station": "Amsterdam Centraal",
+  "time": "0921",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1122",
+  "station": "Eindhoven Centraal",
+  "time": "0744",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1122",
+  "station": "Tilburg",
+  "time": "0809",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1122",
+  "station": "Breda",
+  "time": "0821",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1122",
+  "station": "Breda",
+  "time": "0823",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1122",
+  "station": "Rotterdam Centraal",
+  "time": "0846",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1122",
+  "station": "Rotterdam Centraal",
+  "time": "0848",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1122",
+  "station": "Delft",
+  "time": "0859",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1122",
+  "station": "Den Haag HS",
+  "time": "0908",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1122",
+  "station": "Den Haag Centraal",
+  "time": "0912",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1013",
+  "station": "Rotterdam Centraal",
+  "time": "0855",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1013",
+  "station": "Schiphol Airport",
+  "time": "0921",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1013",
+  "station": "Amsterdam Centraal",
+  "time": "0935",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "IC9691",
+  "station": "Breda",
+  "time": "0826",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9691",
+  "station": "Rotterdam Centraal",
+  "time": "0849",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9691",
+  "station": "Rotterdam Centraal",
+  "time": "0902",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9691",
+  "station": "Den Haag HS",
+  "time": "0920",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC3623",
+  "station": "Tilburg",
+  "time": "0828",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC3623",
+  "station": "Breda",
+  "time": "0840",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD913",
+  "station": "Breda",
+  "time": "0845",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD913",
+  "station": "Rotterdam Centraal",
+  "time": "0908",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD913",
+  "station": "Rotterdam Centraal",
+  "time": "0910",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD913",
+  "station": "Schiphol Airport",
+  "time": "0937",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD913",
+  "station": "Amsterdam Centraal",
+  "time": "0951",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1922",
+  "station": "Eindhoven Centraal",
+  "time": "0803",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1922",
+  "station": "Tilburg",
+  "time": "0831",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1922",
+  "station": "Breda",
+  "time": "0843",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1922",
+  "station": "Breda",
+  "time": "0850",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1922",
+  "station": "Dordrecht",
+  "time": "0912",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1124",
+  "station": "Eindhoven Centraal",
+  "time": "0814",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1124",
+  "station": "Tilburg",
+  "time": "0839",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1124",
+  "station": "Breda",
+  "time": "0851",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1124",
+  "station": "Breda",
+  "time": "0853",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1124",
+  "station": "Rotterdam Centraal",
+  "time": "0916",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1124",
+  "station": "Rotterdam Centraal",
+  "time": "0918",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1124",
+  "station": "Delft",
+  "time": "0929",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1124",
+  "station": "Den Haag HS",
+  "time": "0938",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1124",
+  "station": "Den Haag Centraal",
+  "time": "0942",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1015",
+  "station": "Rotterdam Centraal",
+  "time": "0926",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1015",
+  "station": "Schiphol Airport",
+  "time": "0953",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1015",
+  "station": "Amsterdam Centraal",
+  "time": "1007",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD915",
+  "station": "Breda",
+  "time": "0915",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD915",
+  "station": "Rotterdam Centraal",
+  "time": "0938",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD915",
+  "station": "Rotterdam Centraal",
+  "time": "0940",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD915",
+  "station": "Schiphol Airport",
+  "time": "1007",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD915",
+  "station": "Amsterdam Centraal",
+  "time": "1021",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1126",
+  "station": "Eindhoven Centraal",
+  "time": "0844",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1126",
+  "station": "Tilburg",
+  "time": "0909",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1126",
+  "station": "Breda",
+  "time": "0921",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1126",
+  "station": "Breda",
+  "time": "0923",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1126",
+  "station": "Rotterdam Centraal",
+  "time": "0946",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1126",
+  "station": "Rotterdam Centraal",
+  "time": "0948",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1126",
+  "station": "Delft",
+  "time": "0959",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1126",
+  "station": "Den Haag HS",
+  "time": "1008",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1126",
+  "station": "Den Haag Centraal",
+  "time": "1012",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1017",
+  "station": "Rotterdam Centraal",
+  "time": "0955",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1017",
+  "station": "Schiphol Airport",
+  "time": "1021",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1017",
+  "station": "Amsterdam Centraal",
+  "time": "1035",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD9219",
+  "station": "Breda",
+  "time": "0926",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9219",
+  "station": "Rotterdam Centraal",
+  "time": "0949",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9219",
+  "station": "Rotterdam Centraal",
+  "time": "0958",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9219",
+  "station": "Schiphol Airport",
+  "time": "1024",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9219",
+  "station": "Amsterdam Centraal",
+  "time": "1038",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD917",
+  "station": "Breda",
+  "time": "0945",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD917",
+  "station": "Rotterdam Centraal",
+  "time": "1008",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD917",
+  "station": "Rotterdam Centraal",
+  "time": "1010",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD917",
+  "station": "Schiphol Airport",
+  "time": "1037",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD917",
+  "station": "Amsterdam Centraal",
+  "time": "1051",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1128",
+  "station": "Eindhoven Centraal",
+  "time": "0914",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1128",
+  "station": "Tilburg",
+  "time": "0939",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1128",
+  "station": "Breda",
+  "time": "0951",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1128",
+  "station": "Breda",
+  "time": "0953",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1128",
+  "station": "Rotterdam Centraal",
+  "time": "1016",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1128",
+  "station": "Rotterdam Centraal",
+  "time": "1018",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1128",
+  "station": "Delft",
+  "time": "1029",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1128",
+  "station": "Den Haag HS",
+  "time": "1038",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1128",
+  "station": "Den Haag Centraal",
+  "time": "1042",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1019",
+  "station": "Rotterdam Centraal",
+  "time": "1026",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1019",
+  "station": "Schiphol Airport",
+  "time": "1053",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1019",
+  "station": "Amsterdam Centraal",
+  "time": "1107",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD919",
+  "station": "Breda",
+  "time": "1015",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD919",
+  "station": "Rotterdam Centraal",
+  "time": "1038",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD919",
+  "station": "Rotterdam Centraal",
+  "time": "1040",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD919",
+  "station": "Schiphol Airport",
+  "time": "1107",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD919",
+  "station": "Amsterdam Centraal",
+  "time": "1121",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1130",
+  "station": "Eindhoven Centraal",
+  "time": "0944",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1130",
+  "station": "Tilburg",
+  "time": "1009",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1130",
+  "station": "Breda",
+  "time": "1021",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1130",
+  "station": "Breda",
+  "time": "1023",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1130",
+  "station": "Rotterdam Centraal",
+  "time": "1046",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1130",
+  "station": "Rotterdam Centraal",
+  "time": "1048",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1130",
+  "station": "Delft",
+  "time": "1059",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1130",
+  "station": "Den Haag HS",
+  "time": "1108",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1130",
+  "station": "Den Haag Centraal",
+  "time": "1112",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1021",
+  "station": "Rotterdam Centraal",
+  "time": "1055",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1021",
+  "station": "Schiphol Airport",
+  "time": "1121",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1021",
+  "station": "Amsterdam Centraal",
+  "time": "1135",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD9223",
+  "station": "Breda",
+  "time": "1026",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9223",
+  "station": "Rotterdam Centraal",
+  "time": "1049",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9223",
+  "station": "Rotterdam Centraal",
+  "time": "1058",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9223",
+  "station": "Schiphol Airport",
+  "time": "1124",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9223",
+  "station": "Amsterdam Centraal",
+  "time": "1138",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD921",
+  "station": "Breda",
+  "time": "1045",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD921",
+  "station": "Rotterdam Centraal",
+  "time": "1108",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD921",
+  "station": "Rotterdam Centraal",
+  "time": "1110",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD921",
+  "station": "Schiphol Airport",
+  "time": "1137",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD921",
+  "station": "Amsterdam Centraal",
+  "time": "1151",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1132",
+  "station": "Eindhoven Centraal",
+  "time": "1014",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1132",
+  "station": "Tilburg",
+  "time": "1039",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1132",
+  "station": "Breda",
+  "time": "1051",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1132",
+  "station": "Breda",
+  "time": "1053",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1132",
+  "station": "Rotterdam Centraal",
+  "time": "1116",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1132",
+  "station": "Rotterdam Centraal",
+  "time": "1118",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1132",
+  "station": "Delft",
+  "time": "1129",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1132",
+  "station": "Den Haag HS",
+  "time": "1138",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1132",
+  "station": "Den Haag Centraal",
+  "time": "1142",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1023",
+  "station": "Rotterdam Centraal",
+  "time": "1126",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1023",
+  "station": "Schiphol Airport",
+  "time": "1153",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1023",
+  "station": "Amsterdam Centraal",
+  "time": "1207",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD923",
+  "station": "Breda",
+  "time": "1115",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD923",
+  "station": "Rotterdam Centraal",
+  "time": "1138",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD923",
+  "station": "Rotterdam Centraal",
+  "time": "1140",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD923",
+  "station": "Schiphol Airport",
+  "time": "1207",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD923",
+  "station": "Amsterdam Centraal",
+  "time": "1221",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1134",
+  "station": "Eindhoven Centraal",
+  "time": "1044",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1134",
+  "station": "Tilburg",
+  "time": "1109",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1134",
+  "station": "Breda",
+  "time": "1121",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1134",
+  "station": "Breda",
+  "time": "1123",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1134",
+  "station": "Rotterdam Centraal",
+  "time": "1146",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1134",
+  "station": "Rotterdam Centraal",
+  "time": "1148",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1134",
+  "station": "Delft",
+  "time": "1159",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1134",
+  "station": "Den Haag HS",
+  "time": "1208",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1134",
+  "station": "Den Haag Centraal",
+  "time": "1212",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1025",
+  "station": "Rotterdam Centraal",
+  "time": "1155",
+  "depArr": "V",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1025",
+  "station": "Schiphol Airport",
+  "time": "1221",
+  "depArr": "O",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD1025",
+  "station": "Amsterdam Centraal",
+  "time": "1235",
+  "depArr": "A",
+  "days": "(ma-za)"
+}
+{
+  "lineNumber": "ICD9227",
+  "station": "Breda",
+  "time": "1126",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9227",
+  "station": "Rotterdam Centraal",
+  "time": "1149",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9227",
+  "station": "Rotterdam Centraal",
+  "time": "1158",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9227",
+  "station": "Schiphol Airport",
+  "time": "1224",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9227",
+  "station": "Amsterdam Centraal",
+  "time": "1238",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD925",
+  "station": "Breda",
+  "time": "1145",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD925",
+  "station": "Rotterdam Centraal",
+  "time": "1208",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD925",
+  "station": "Rotterdam Centraal",
+  "time": "1210",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD925",
+  "station": "Schiphol Airport",
+  "time": "1237",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD925",
+  "station": "Amsterdam Centraal",
+  "time": "1251",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1136",
+  "station": "Eindhoven Centraal",
+  "time": "1114",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1136",
+  "station": "Tilburg",
+  "time": "1139",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1136",
+  "station": "Breda",
+  "time": "1151",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1136",
+  "station": "Breda",
+  "time": "1153",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1136",
+  "station": "Rotterdam Centraal",
+  "time": "1216",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1136",
+  "station": "Rotterdam Centraal",
+  "time": "1218",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1136",
+  "station": "Delft",
+  "time": "1229",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1136",
+  "station": "Den Haag HS",
+  "time": "1238",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1136",
+  "station": "Den Haag Centraal",
+  "time": "1242",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1027",
+  "station": "Rotterdam Centraal",
+  "time": "1226",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1027",
+  "station": "Schiphol Airport",
+  "time": "1253",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1027",
+  "station": "Amsterdam Centraal",
+  "time": "1307",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD927",
+  "station": "Breda",
+  "time": "1215",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD927",
+  "station": "Rotterdam Centraal",
+  "time": "1238",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD927",
+  "station": "Rotterdam Centraal",
+  "time": "1240",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD927",
+  "station": "Schiphol Airport",
+  "time": "1307",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD927",
+  "station": "Amsterdam Centraal",
+  "time": "1321",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1138",
+  "station": "Eindhoven Centraal",
+  "time": "1144",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1138",
+  "station": "Tilburg",
+  "time": "1209",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1138",
+  "station": "Breda",
+  "time": "1221",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1138",
+  "station": "Breda",
+  "time": "1223",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1138",
+  "station": "Rotterdam Centraal",
+  "time": "1246",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1138",
+  "station": "Rotterdam Centraal",
+  "time": "1248",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1138",
+  "station": "Delft",
+  "time": "1259",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1138",
+  "station": "Den Haag HS",
+  "time": "1308",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1138",
+  "station": "Den Haag Centraal",
+  "time": "1312",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1029",
+  "station": "Rotterdam Centraal",
+  "time": "1255",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1029",
+  "station": "Schiphol Airport",
+  "time": "1321",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1029",
+  "station": "Amsterdam Centraal",
+  "time": "1335",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9693",
+  "station": "Breda",
+  "time": "1226",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9693",
+  "station": "Rotterdam Centraal",
+  "time": "1249",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9693",
+  "station": "Rotterdam Centraal",
+  "time": "1302",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9693",
+  "station": "Den Haag HS",
+  "time": "1320",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD929",
+  "station": "Breda",
+  "time": "1245",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD929",
+  "station": "Rotterdam Centraal",
+  "time": "1308",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD929",
+  "station": "Rotterdam Centraal",
+  "time": "1310",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD929",
+  "station": "Schiphol Airport",
+  "time": "1337",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD929",
+  "station": "Amsterdam Centraal",
+  "time": "1351",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1934",
+  "station": "Eindhoven Centraal",
+  "time": "1203",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1934",
+  "station": "Tilburg",
+  "time": "1231",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1934",
+  "station": "Breda",
+  "time": "1243",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1934",
+  "station": "Breda",
+  "time": "1250",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1934",
+  "station": "Dordrecht",
+  "time": "1312",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1140",
+  "station": "Eindhoven Centraal",
+  "time": "1214",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1140",
+  "station": "Tilburg",
+  "time": "1239",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1140",
+  "station": "Breda",
+  "time": "1251",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1140",
+  "station": "Breda",
+  "time": "1253",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1140",
+  "station": "Rotterdam Centraal",
+  "time": "1316",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1140",
+  "station": "Rotterdam Centraal",
+  "time": "1318",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1140",
+  "station": "Delft",
+  "time": "1329",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1140",
+  "station": "Den Haag HS",
+  "time": "1338",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1140",
+  "station": "Den Haag Centraal",
+  "time": "1342",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1031",
+  "station": "Rotterdam Centraal",
+  "time": "1326",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1031",
+  "station": "Schiphol Airport",
+  "time": "1353",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1031",
+  "station": "Amsterdam Centraal",
+  "time": "1407",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD931",
+  "station": "Breda",
+  "time": "1315",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD931",
+  "station": "Rotterdam Centraal",
+  "time": "1338",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD931",
+  "station": "Rotterdam Centraal",
+  "time": "1340",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD931",
+  "station": "Schiphol Airport",
+  "time": "1407",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD931",
+  "station": "Amsterdam Centraal",
+  "time": "1421",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1142",
+  "station": "Eindhoven Centraal",
+  "time": "1244",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1142",
+  "station": "Tilburg",
+  "time": "1309",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1142",
+  "station": "Breda",
+  "time": "1321",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1142",
+  "station": "Breda",
+  "time": "1323",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1142",
+  "station": "Rotterdam Centraal",
+  "time": "1346",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1142",
+  "station": "Rotterdam Centraal",
+  "time": "1348",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1142",
+  "station": "Delft",
+  "time": "1359",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1142",
+  "station": "Den Haag HS",
+  "time": "1408",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1142",
+  "station": "Den Haag Centraal",
+  "time": "1412",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1033",
+  "station": "Rotterdam Centraal",
+  "time": "1355",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1033",
+  "station": "Schiphol Airport",
+  "time": "1421",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1033",
+  "station": "Amsterdam Centraal",
+  "time": "1435",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9235",
+  "station": "Breda",
+  "time": "1326",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9235",
+  "station": "Rotterdam Centraal",
+  "time": "1349",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9235",
+  "station": "Rotterdam Centraal",
+  "time": "1358",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9235",
+  "station": "Schiphol Airport",
+  "time": "1424",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9235",
+  "station": "Amsterdam Centraal",
+  "time": "1438",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD933",
+  "station": "Breda",
+  "time": "1345",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD933",
+  "station": "Rotterdam Centraal",
+  "time": "1408",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD933",
+  "station": "Rotterdam Centraal",
+  "time": "1410",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD933",
+  "station": "Schiphol Airport",
+  "time": "1437",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD933",
+  "station": "Amsterdam Centraal",
+  "time": "1451",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1144",
+  "station": "Eindhoven Centraal",
+  "time": "1314",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1144",
+  "station": "Tilburg",
+  "time": "1339",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1144",
+  "station": "Breda",
+  "time": "1351",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1144",
+  "station": "Breda",
+  "time": "1353",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1144",
+  "station": "Rotterdam Centraal",
+  "time": "1416",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1144",
+  "station": "Rotterdam Centraal",
+  "time": "1418",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1144",
+  "station": "Delft",
+  "time": "1429",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1144",
+  "station": "Den Haag HS",
+  "time": "1438",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1144",
+  "station": "Den Haag Centraal",
+  "time": "1442",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1035",
+  "station": "Rotterdam Centraal",
+  "time": "1426",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1035",
+  "station": "Schiphol Airport",
+  "time": "1453",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1035",
+  "station": "Amsterdam Centraal",
+  "time": "1507",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD935",
+  "station": "Breda",
+  "time": "1415",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD935",
+  "station": "Rotterdam Centraal",
+  "time": "1438",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD935",
+  "station": "Rotterdam Centraal",
+  "time": "1440",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD935",
+  "station": "Schiphol Airport",
+  "time": "1507",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD935",
+  "station": "Amsterdam Centraal",
+  "time": "1521",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1146",
+  "station": "Eindhoven Centraal",
+  "time": "1344",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1146",
+  "station": "Tilburg",
+  "time": "1409",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1146",
+  "station": "Breda",
+  "time": "1421",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1146",
+  "station": "Breda",
+  "time": "1423",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1146",
+  "station": "Rotterdam Centraal",
+  "time": "1446",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1146",
+  "station": "Rotterdam Centraal",
+  "time": "1448",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1146",
+  "station": "Delft",
+  "time": "1459",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1146",
+  "station": "Den Haag HS",
+  "time": "1508",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1146",
+  "station": "Den Haag Centraal",
+  "time": "1512",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1037",
+  "station": "Rotterdam Centraal",
+  "time": "1455",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1037",
+  "station": "Schiphol Airport",
+  "time": "1521",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1037",
+  "station": "Amsterdam Centraal",
+  "time": "1535",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9239",
+  "station": "Breda",
+  "time": "1426",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9239",
+  "station": "Rotterdam Centraal",
+  "time": "1449",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9239",
+  "station": "Rotterdam Centraal",
+  "time": "1458",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9239",
+  "station": "Schiphol Airport",
+  "time": "1524",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9239",
+  "station": "Amsterdam Centraal",
+  "time": "1538",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD937",
+  "station": "Breda",
+  "time": "1445",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD937",
+  "station": "Rotterdam Centraal",
+  "time": "1508",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD937",
+  "station": "Rotterdam Centraal",
+  "time": "1510",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD937",
+  "station": "Schiphol Airport",
+  "time": "1537",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD937",
+  "station": "Amsterdam Centraal",
+  "time": "1551",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1148",
+  "station": "Eindhoven Centraal",
+  "time": "1414",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1148",
+  "station": "Tilburg",
+  "time": "1439",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1148",
+  "station": "Breda",
+  "time": "1451",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1148",
+  "station": "Breda",
+  "time": "1453",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1148",
+  "station": "Rotterdam Centraal",
+  "time": "1516",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1148",
+  "station": "Rotterdam Centraal",
+  "time": "1518",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1148",
+  "station": "Delft",
+  "time": "1529",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1148",
+  "station": "Den Haag HS",
+  "time": "1538",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1148",
+  "station": "Den Haag Centraal",
+  "time": "1542",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1039",
+  "station": "Rotterdam Centraal",
+  "time": "1526",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1039",
+  "station": "Schiphol Airport",
+  "time": "1553",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1039",
+  "station": "Amsterdam Centraal",
+  "time": "1607",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD939",
+  "station": "Breda",
+  "time": "1515",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD939",
+  "station": "Rotterdam Centraal",
+  "time": "1538",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD939",
+  "station": "Rotterdam Centraal",
+  "time": "1540",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD939",
+  "station": "Schiphol Airport",
+  "time": "1607",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD939",
+  "station": "Amsterdam Centraal",
+  "time": "1621",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1150",
+  "station": "Eindhoven Centraal",
+  "time": "1444",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1150",
+  "station": "Tilburg",
+  "time": "1509",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1150",
+  "station": "Breda",
+  "time": "1521",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1150",
+  "station": "Breda",
+  "time": "1523",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1150",
+  "station": "Rotterdam Centraal",
+  "time": "1546",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1150",
+  "station": "Rotterdam Centraal",
+  "time": "1548",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1150",
+  "station": "Delft",
+  "time": "1559",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1150",
+  "station": "Den Haag HS",
+  "time": "1608",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1150",
+  "station": "Den Haag Centraal",
+  "time": "1612",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1041",
+  "station": "Rotterdam Centraal",
+  "time": "1555",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1041",
+  "station": "Schiphol Airport",
+  "time": "1621",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1041",
+  "station": "Amsterdam Centraal",
+  "time": "1635",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9243",
+  "station": "Breda",
+  "time": "1526",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9243",
+  "station": "Rotterdam Centraal",
+  "time": "1549",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9243",
+  "station": "Rotterdam Centraal",
+  "time": "1558",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9243",
+  "station": "Schiphol Airport",
+  "time": "1624",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9243",
+  "station": "Amsterdam Centraal",
+  "time": "1638",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD941",
+  "station": "Breda",
+  "time": "1545",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD941",
+  "station": "Rotterdam Centraal",
+  "time": "1608",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD941",
+  "station": "Rotterdam Centraal",
+  "time": "1610",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD941",
+  "station": "Schiphol Airport",
+  "time": "1637",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD941",
+  "station": "Amsterdam Centraal",
+  "time": "1651",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1152",
+  "station": "Eindhoven Centraal",
+  "time": "1514",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1152",
+  "station": "Tilburg",
+  "time": "1539",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1152",
+  "station": "Breda",
+  "time": "1551",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1152",
+  "station": "Breda",
+  "time": "1553",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1152",
+  "station": "Rotterdam Centraal",
+  "time": "1616",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1152",
+  "station": "Rotterdam Centraal",
+  "time": "1618",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1152",
+  "station": "Delft",
+  "time": "1629",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1152",
+  "station": "Den Haag HS",
+  "time": "1638",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1152",
+  "station": "Den Haag Centraal",
+  "time": "1642",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1043",
+  "station": "Rotterdam Centraal",
+  "time": "1626",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1043",
+  "station": "Schiphol Airport",
+  "time": "1653",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1043",
+  "station": "Amsterdam Centraal",
+  "time": "1707",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD943",
+  "station": "Breda",
+  "time": "1615",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD943",
+  "station": "Rotterdam Centraal",
+  "time": "1638",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD943",
+  "station": "Rotterdam Centraal",
+  "time": "1640",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD943",
+  "station": "Schiphol Airport",
+  "time": "1707",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD943",
+  "station": "Amsterdam Centraal",
+  "time": "1721",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1154",
+  "station": "Eindhoven Centraal",
+  "time": "1544",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1154",
+  "station": "Tilburg",
+  "time": "1609",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1154",
+  "station": "Breda",
+  "time": "1621",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1154",
+  "station": "Breda",
+  "time": "1623",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1154",
+  "station": "Rotterdam Centraal",
+  "time": "1646",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1154",
+  "station": "Rotterdam Centraal",
+  "time": "1648",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1154",
+  "station": "Delft",
+  "time": "1659",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1154",
+  "station": "Den Haag HS",
+  "time": "1708",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1154",
+  "station": "Den Haag Centraal",
+  "time": "1712",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1045",
+  "station": "Rotterdam Centraal",
+  "time": "1655",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1045",
+  "station": "Schiphol Airport",
+  "time": "1721",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1045",
+  "station": "Amsterdam Centraal",
+  "time": "1735",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9695",
+  "station": "Breda",
+  "time": "1626",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9695",
+  "station": "Rotterdam Centraal",
+  "time": "1649",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9695",
+  "station": "Rotterdam Centraal",
+  "time": "1702",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9695",
+  "station": "Den Haag HS",
+  "time": "1720",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD945",
+  "station": "Breda",
+  "time": "1645",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD945",
+  "station": "Rotterdam Centraal",
+  "time": "1708",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD945",
+  "station": "Rotterdam Centraal",
+  "time": "1710",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD945",
+  "station": "Schiphol Airport",
+  "time": "1737",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD945",
+  "station": "Amsterdam Centraal",
+  "time": "1751",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1950",
+  "station": "Eindhoven Centraal",
+  "time": "1603",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1950",
+  "station": "Tilburg",
+  "time": "1631",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1950",
+  "station": "Breda",
+  "time": "1643",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1950",
+  "station": "Breda",
+  "time": "1650",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1950",
+  "station": "Dordrecht",
+  "time": "1712",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1156",
+  "station": "Eindhoven Centraal",
+  "time": "1614",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1156",
+  "station": "Tilburg",
+  "time": "1639",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1156",
+  "station": "Breda",
+  "time": "1651",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1156",
+  "station": "Breda",
+  "time": "1653",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1156",
+  "station": "Rotterdam Centraal",
+  "time": "1716",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1156",
+  "station": "Rotterdam Centraal",
+  "time": "1718",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1156",
+  "station": "Delft",
+  "time": "1729",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1156",
+  "station": "Den Haag HS",
+  "time": "1738",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1156",
+  "station": "Den Haag Centraal",
+  "time": "1742",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1047",
+  "station": "Rotterdam Centraal",
+  "time": "1726",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1047",
+  "station": "Schiphol Airport",
+  "time": "1753",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1047",
+  "station": "Amsterdam Centraal",
+  "time": "1807",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD947",
+  "station": "Breda",
+  "time": "1715",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD947",
+  "station": "Rotterdam Centraal",
+  "time": "1738",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD947",
+  "station": "Rotterdam Centraal",
+  "time": "1740",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD947",
+  "station": "Schiphol Airport",
+  "time": "1807",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD947",
+  "station": "Amsterdam Centraal",
+  "time": "1821",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1158",
+  "station": "Eindhoven Centraal",
+  "time": "1644",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1158",
+  "station": "Tilburg",
+  "time": "1709",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1158",
+  "station": "Breda",
+  "time": "1721",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1158",
+  "station": "Breda",
+  "time": "1723",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1158",
+  "station": "Rotterdam Centraal",
+  "time": "1746",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1158",
+  "station": "Rotterdam Centraal",
+  "time": "1748",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1158",
+  "station": "Delft",
+  "time": "1759",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1158",
+  "station": "Den Haag HS",
+  "time": "1808",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1158",
+  "station": "Den Haag Centraal",
+  "time": "1812",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1049",
+  "station": "Rotterdam Centraal",
+  "time": "1755",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1049",
+  "station": "Schiphol Airport",
+  "time": "1821",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1049",
+  "station": "Amsterdam Centraal",
+  "time": "1835",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9251",
+  "station": "Breda",
+  "time": "1726",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9251",
+  "station": "Rotterdam Centraal",
+  "time": "1749",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9251",
+  "station": "Rotterdam Centraal",
+  "time": "1758",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9251",
+  "station": "Schiphol Airport",
+  "time": "1824",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9251",
+  "station": "Amsterdam Centraal",
+  "time": "1838",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD949",
+  "station": "Breda",
+  "time": "1745",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD949",
+  "station": "Rotterdam Centraal",
+  "time": "1808",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD949",
+  "station": "Rotterdam Centraal",
+  "time": "1810",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD949",
+  "station": "Schiphol Airport",
+  "time": "1837",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD949",
+  "station": "Amsterdam Centraal",
+  "time": "1851",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1160",
+  "station": "Eindhoven Centraal",
+  "time": "1714",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1160",
+  "station": "Tilburg",
+  "time": "1739",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1160",
+  "station": "Breda",
+  "time": "1751",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1160",
+  "station": "Breda",
+  "time": "1753",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1160",
+  "station": "Rotterdam Centraal",
+  "time": "1816",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1160",
+  "station": "Rotterdam Centraal",
+  "time": "1818",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1160",
+  "station": "Delft",
+  "time": "1829",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1160",
+  "station": "Den Haag HS",
+  "time": "1038",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1160",
+  "station": "Den Haag Centraal",
+  "time": "1842",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1051",
+  "station": "Rotterdam Centraal",
+  "time": "1826",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1051",
+  "station": "Schiphol Airport",
+  "time": "1853",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1051",
+  "station": "Amsterdam Centraal",
+  "time": "1907",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD951",
+  "station": "Breda",
+  "time": "1815",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD951",
+  "station": "Rotterdam Centraal",
+  "time": "1838",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD951",
+  "station": "Rotterdam Centraal",
+  "time": "1840",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD951",
+  "station": "Schiphol Airport",
+  "time": "1907",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD951",
+  "station": "Amsterdam Centraal",
+  "time": "1921",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1162",
+  "station": "Eindhoven Centraal",
+  "time": "1744",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1162",
+  "station": "Tilburg",
+  "time": "1809",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1162",
+  "station": "Breda",
+  "time": "1821",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1162",
+  "station": "Breda",
+  "time": "1823",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1162",
+  "station": "Rotterdam Centraal",
+  "time": "1846",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1162",
+  "station": "Rotterdam Centraal",
+  "time": "1848",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1162",
+  "station": "Delft",
+  "time": "1859",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1162",
+  "station": "Den Haag HS",
+  "time": "1908",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1162",
+  "station": "Den Haag Centraal",
+  "time": "1912",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1053",
+  "station": "Rotterdam Centraal",
+  "time": "1855",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1053",
+  "station": "Schiphol Airport",
+  "time": "1921",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1053",
+  "station": "Amsterdam Centraal",
+  "time": "1935",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9255",
+  "station": "Breda",
+  "time": "1826",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9255",
+  "station": "Rotterdam Centraal",
+  "time": "1849",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9255",
+  "station": "Rotterdam Centraal",
+  "time": "1858",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9255",
+  "station": "Schiphol Airport",
+  "time": "1924",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9255",
+  "station": "Amsterdam Centraal",
+  "time": "1938",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD953",
+  "station": "Breda",
+  "time": "1845",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD953",
+  "station": "Rotterdam Centraal",
+  "time": "1908",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD953",
+  "station": "Rotterdam Centraal",
+  "time": "1910",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD953",
+  "station": "Schiphol Airport",
+  "time": "1937",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD953",
+  "station": "Amsterdam Centraal",
+  "time": "1951",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1164",
+  "station": "Eindhoven Centraal",
+  "time": "1814",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1164",
+  "station": "Tilburg",
+  "time": "1839",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1164",
+  "station": "Breda",
+  "time": "1851",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1164",
+  "station": "Breda",
+  "time": "1853",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1164",
+  "station": "Rotterdam Centraal",
+  "time": "1916",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1164",
+  "station": "Rotterdam Centraal",
+  "time": "1918",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1164",
+  "station": "Delft",
+  "time": "1929",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1164",
+  "station": "Den Haag HS",
+  "time": "1938",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1164",
+  "station": "Den Haag Centraal",
+  "time": "1942",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1055",
+  "station": "Rotterdam Centraal",
+  "time": "1926",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1055",
+  "station": "Schiphol Airport",
+  "time": "1953",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1055",
+  "station": "Amsterdam Centraal",
+  "time": "2007",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD955",
+  "station": "Breda",
+  "time": "1915",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD955",
+  "station": "Rotterdam Centraal",
+  "time": "1938",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD955",
+  "station": "Rotterdam Centraal",
+  "time": "1940",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD955",
+  "station": "Schiphol Airport",
+  "time": "2007",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD955",
+  "station": "Amsterdam Centraal",
+  "time": "2021",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1166",
+  "station": "Eindhoven Centraal",
+  "time": "1844",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1166",
+  "station": "Tilburg",
+  "time": "1909",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1166",
+  "station": "Breda",
+  "time": "1921",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1166",
+  "station": "Breda",
+  "time": "1923",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1166",
+  "station": "Rotterdam Centraal",
+  "time": "1946",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1166",
+  "station": "Rotterdam Centraal",
+  "time": "1948",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1166",
+  "station": "Delft",
+  "time": "1959",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1166",
+  "station": "Den Haag HS",
+  "time": "2008",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1166",
+  "station": "Den Haag Centraal",
+  "time": "2012",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1057",
+  "station": "Rotterdam Centraal",
+  "time": "1955",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1057",
+  "station": "Schiphol Airport",
+  "time": "2021",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1057",
+  "station": "Amsterdam Centraal",
+  "time": "2035",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9259",
+  "station": "Breda",
+  "time": "1926",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9259",
+  "station": "Rotterdam Centraal",
+  "time": "1949",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9259",
+  "station": "Rotterdam Centraal",
+  "time": "1958",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9259",
+  "station": "Schiphol Airport",
+  "time": "2024",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9259",
+  "station": "Amsterdam Centraal",
+  "time": "2038",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD957",
+  "station": "Breda",
+  "time": "1945",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD957",
+  "station": "Rotterdam Centraal",
+  "time": "2008",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD957",
+  "station": "Rotterdam Centraal",
+  "time": "2010",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD957",
+  "station": "Schiphol Airport",
+  "time": "2037",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD957",
+  "station": "Amsterdam Centraal",
+  "time": "2051",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1168",
+  "station": "Eindhoven Centraal",
+  "time": "1914",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1168",
+  "station": "Tilburg",
+  "time": "1939",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1168",
+  "station": "Breda",
+  "time": "1951",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1168",
+  "station": "Breda",
+  "time": "1953",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1168",
+  "station": "Rotterdam Centraal",
+  "time": "2016",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1168",
+  "station": "Rotterdam Centraal",
+  "time": "2018",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1168",
+  "station": "Delft",
+  "time": "2029",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1168",
+  "station": "Den Haag HS",
+  "time": "2038",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1168",
+  "station": "Den Haag Centraal",
+  "time": "2042",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1059",
+  "station": "Rotterdam Centraal",
+  "time": "2026",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1059",
+  "station": "Schiphol Airport",
+  "time": "2053",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1059",
+  "station": "Amsterdam Centraal",
+  "time": "2107",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD959",
+  "station": "Breda",
+  "time": "2015",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD959",
+  "station": "Rotterdam Centraal",
+  "time": "2038",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD959",
+  "station": "Rotterdam Centraal",
+  "time": "2040",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD959",
+  "station": "Schiphol Airport",
+  "time": "2107",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD959",
+  "station": "Amsterdam Centraal",
+  "time": "2121",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1170",
+  "station": "Eindhoven Centraal",
+  "time": "1944",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1170",
+  "station": "Tilburg",
+  "time": "2009",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1170",
+  "station": "Breda",
+  "time": "2021",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1170",
+  "station": "Breda",
+  "time": "2023",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1170",
+  "station": "Rotterdam Centraal",
+  "time": "2046",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1170",
+  "station": "Rotterdam Centraal",
+  "time": "2048",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1170",
+  "station": "Delft",
+  "time": "2059",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1170",
+  "station": "Den Haag HS",
+  "time": "2108",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1170",
+  "station": "Den Haag Centraal",
+  "time": "2112",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1061",
+  "station": "Rotterdam Centraal",
+  "time": "2055",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1061",
+  "station": "Schiphol Airport",
+  "time": "2121",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1061",
+  "station": "Amsterdam Centraal",
+  "time": "2135",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9697",
+  "station": "Breda",
+  "time": "2026",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9697",
+  "station": "Rotterdam Centraal",
+  "time": "2049",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9697",
+  "station": "Rotterdam Centraal",
+  "time": "2102",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9697",
+  "station": "Den Haag HS",
+  "time": "2125",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9697",
+  "station": "Schiphol Airport",
+  "time": "2151",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC9697",
+  "station": "Amsterdam Centraal",
+  "time": "2205",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD961",
+  "station": "Breda",
+  "time": "2045",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD961",
+  "station": "Rotterdam Centraal",
+  "time": "2108",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD961",
+  "station": "Rotterdam Centraal",
+  "time": "2110",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD961",
+  "station": "Schiphol Airport",
+  "time": "2137",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD961",
+  "station": "Amsterdam Centraal",
+  "time": "2151",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1966",
+  "station": "Eindhoven Centraal",
+  "time": "2007",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1966",
+  "station": "Tilburg",
+  "time": "2031",
+  "depArr": "O",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1966",
+  "station": "Breda",
+  "time": "2043",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1966",
+  "station": "Breda",
+  "time": "2050",
+  "depArr": "V",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1966",
+  "station": "Dordrecht",
+  "time": "2112",
+  "depArr": "A",
+  "days": "(ma-vr)"
+}
+{
+  "lineNumber": "IC1172",
+  "station": "Eindhoven Centraal",
+  "time": "2014",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1172",
+  "station": "Tilburg",
+  "time": "2039",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1172",
+  "station": "Breda",
+  "time": "2051",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1172",
+  "station": "Breda",
+  "time": "2053",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1172",
+  "station": "Rotterdam Centraal",
+  "time": "2116",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1172",
+  "station": "Rotterdam Centraal",
+  "time": "2118",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1172",
+  "station": "Delft",
+  "time": "2129",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1172",
+  "station": "Den Haag HS",
+  "time": "2138",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1172",
+  "station": "Den Haag Centraal",
+  "time": "2142",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1063",
+  "station": "Rotterdam Centraal",
+  "time": "2126",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1063",
+  "station": "Schiphol Airport",
+  "time": "2154",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1063",
+  "station": "Amsterdam Centraal",
+  "time": "2208",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD963",
+  "station": "Breda",
+  "time": "2115",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD963",
+  "station": "Rotterdam Centraal",
+  "time": "2138",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD963",
+  "station": "Rotterdam Centraal",
+  "time": "2140",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD963",
+  "station": "Schiphol Airport",
+  "time": "2207",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD963",
+  "station": "Amsterdam Centraal",
+  "time": "2221",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1174",
+  "station": "Eindhoven Centraal",
+  "time": "2044",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1174",
+  "station": "Tilburg",
+  "time": "2109",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1174",
+  "station": "Breda",
+  "time": "2121",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1174",
+  "station": "Breda",
+  "time": "2123",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1174",
+  "station": "Rotterdam Centraal",
+  "time": "2146",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1174",
+  "station": "Rotterdam Centraal",
+  "time": "2148",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1174",
+  "station": "Delft",
+  "time": "2159",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1174",
+  "station": "Den Haag HS",
+  "time": "2208",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1174",
+  "station": "Den Haag Centraal",
+  "time": "2212",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1065",
+  "station": "Rotterdam Centraal",
+  "time": "2155",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1065",
+  "station": "Schiphol Airport",
+  "time": "2221",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1065",
+  "station": "Amsterdam Centraal",
+  "time": "2235",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9267",
+  "station": "Breda",
+  "time": "2126",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9267",
+  "station": "Rotterdam Centraal",
+  "time": "2149",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9267",
+  "station": "Rotterdam Centraal",
+  "time": "2158",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9267",
+  "station": "Schiphol Airport",
+  "time": "2224",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9267",
+  "station": "Amsterdam Centraal",
+  "time": "2238",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD965",
+  "station": "Breda",
+  "time": "2145",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD965",
+  "station": "Rotterdam Centraal",
+  "time": "2208",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD965",
+  "station": "Rotterdam Centraal",
+  "time": "2210",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD965",
+  "station": "Schiphol Airport",
+  "time": "2237",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD965",
+  "station": "Amsterdam Centraal",
+  "time": "2251",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1176",
+  "station": "Eindhoven Centraal",
+  "time": "2114",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1176",
+  "station": "Tilburg",
+  "time": "2139",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1176",
+  "station": "Breda",
+  "time": "2151",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1176",
+  "station": "Breda",
+  "time": "2153",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1176",
+  "station": "Rotterdam Centraal",
+  "time": "2216",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1176",
+  "station": "Rotterdam Centraal",
+  "time": "2218",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1176",
+  "station": "Delft",
+  "time": "2229",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1176",
+  "station": "Den Haag HS",
+  "time": "2238",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1176",
+  "station": "Den Haag Centraal",
+  "time": "2242",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1067",
+  "station": "Rotterdam Centraal",
+  "time": "2226",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1067",
+  "station": "Schiphol Airport",
+  "time": "2253",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD1067",
+  "station": "Amsterdam Centraal",
+  "time": "2307",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD967",
+  "station": "Breda",
+  "time": "2215",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD967",
+  "station": "Rotterdam Centraal",
+  "time": "2238",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD967",
+  "station": "Rotterdam Centraal",
+  "time": "2240",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD967",
+  "station": "Schiphol Airport",
+  "time": "2307",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD967",
+  "station": "Amsterdam Centraal",
+  "time": "2321",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1178",
+  "station": "Eindhoven Centraal",
+  "time": "2144",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1178",
+  "station": "Tilburg",
+  "time": "2209",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1178",
+  "station": "Breda",
+  "time": "2221",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1178",
+  "station": "Breda",
+  "time": "2223",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1178",
+  "station": "Rotterdam Centraal",
+  "time": "2246",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1178",
+  "station": "Rotterdam Centraal",
+  "time": "2248",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1178",
+  "station": "Delft",
+  "time": "2259",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1178",
+  "station": "Den Haag HS",
+  "time": "2308",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1178",
+  "station": "Den Haag Centraal",
+  "time": "2312",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9271",
+  "station": "Breda",
+  "time": "2226",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9271",
+  "station": "Rotterdam Centraal",
+  "time": "2249",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9271",
+  "station": "Rotterdam Centraal",
+  "time": "2258",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9271",
+  "station": "Schiphol Airport",
+  "time": "2324",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD9271",
+  "station": "Amsterdam Centraal",
+  "time": "2338",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD969",
+  "station": "Breda",
+  "time": "2245",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD969",
+  "station": "Rotterdam Centraal",
+  "time": "2308",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD969",
+  "station": "Rotterdam Centraal",
+  "time": "2310",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD969",
+  "station": "Schiphol Airport",
+  "time": "2337",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD969",
+  "station": "Amsterdam Centraal",
+  "time": "2351",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1180",
+  "station": "Eindhoven Centraal",
+  "time": "2214",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1180",
+  "station": "Tilburg",
+  "time": "2239",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1180",
+  "station": "Breda",
+  "time": "2251",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1180",
+  "station": "Breda",
+  "time": "2253",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1180",
+  "station": "Rotterdam Centraal",
+  "time": "2316",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1180",
+  "station": "Rotterdam Centraal",
+  "time": "2318",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1180",
+  "station": "Delft",
+  "time": "2329",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1180",
+  "station": "Den Haag HS",
+  "time": "2338",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1180",
+  "station": "Den Haag Centraal",
+  "time": "2342",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD971",
+  "station": "Breda",
+  "time": "2315",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD971",
+  "station": "Rotterdam Centraal",
+  "time": "2338",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD971",
+  "station": "Rotterdam Centraal",
+  "time": "2340",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD971",
+  "station": "Schiphol Airport",
+  "time": "0007",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "ICD971",
+  "station": "Amsterdam Centraal",
+  "time": "0021",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1182",
+  "station": "Eindhoven Centraal",
+  "time": "2244",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1182",
+  "station": "Tilburg",
+  "time": "2309",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1182",
+  "station": "Breda",
+  "time": "2321",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1182",
+  "station": "Breda",
+  "time": "2323",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1182",
+  "station": "Rotterdam Centraal",
+  "time": "2346",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1182",
+  "station": "Rotterdam Centraal",
+  "time": "2348",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1182",
+  "station": "Delft",
+  "time": "2359",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1182",
+  "station": "Den Haag HS",
+  "time": "0008",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1182",
+  "station": "Den Haag Centraal",
+  "time": "0012",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1184",
+  "station": "Eindhoven Centraal",
+  "time": "2314",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1184",
+  "station": "Tilburg",
+  "time": "2339",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1184",
+  "station": "Breda",
+  "time": "2351",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1184",
+  "station": "Breda",
+  "time": "2353",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1184",
+  "station": "Rotterdam Centraal",
+  "time": "0016",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1184",
+  "station": "Rotterdam Centraal",
+  "time": "0018",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1184",
+  "station": "Delft",
+  "time": "0029",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1184",
+  "station": "Den Haag HS",
+  "time": "0038",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1184",
+  "station": "Den Haag Centraal",
+  "time": "0042",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1186",
+  "station": "Eindhoven Centraal",
+  "time": "2344",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1186",
+  "station": "Tilburg",
+  "time": "0009",
+  "depArr": "O",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1186",
+  "station": "Breda",
+  "time": "0021",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1186",
+  "station": "Breda",
+  "time": "0023",
+  "depArr": "V",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "IC1186",
+  "station": "Rotterdam Centraal",
+  "time": "0046",
+  "depArr": "A",
+  "days": "(ma-zo)"
+}
+{
+  "lineNumber": "",
+  "station": "",
+  "time": "",
+  "depArr": "",
+  "days": "===EOF==="
+}

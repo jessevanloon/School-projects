@@ -1,0 +1,77 @@
+Amsterdam Centraal
+Stationsplein 15, 1012AB Amsterdam
+Yes
+Yes
+Yes
+Yes
+Yes
+Schiphol Airport
+Passage 18, 1118AX Schiphol
+Yes
+No
+No
+Yes
+Yes
+Rotterdam Centraal
+Stationsplein 339-340 3013AK Rotterdam
+Yes
+Yes
+Yes
+Yes
+Yes
+Den Haag HS
+Stationsplein 41, 2515BV Den Haag
+Yes
+Yes
+Yes
+Yes
+Yes
+Breda
+Gravinnen Nassauboulevard 56, 4811BN Breda
+Yes
+Yes
+Yes
+Yes
+Yes
+Dordrecht
+Stationsplein 1, 3311JV Dordrecht
+Yes
+Yes
+Yes
+Yes
+Yes
+Tilburg
+Spoorlaan 35, 5038CB Tilburg
+Yes
+Yes
+Yes
+Yes
+No
+Boxtel
+Stationsplein 23, 5281GH Boxtel
+No
+Yes
+Yes
+No
+Yes
+Eindhoven Centraal
+Stationsplein 22, 5611AC Eindhoven
+Yes
+Yes
+Yes
+Yes
+No
+Delft
+v. Leeuwenhoeksingel 41, 2611AC Delft
+No
+Yes
+No
+Yes
+Yes
+Den Haag Centraal
+Kon. Julianaplein 10, 2595AA Den Haag
+Yes
+Yes
+Yes
+Yes
+No

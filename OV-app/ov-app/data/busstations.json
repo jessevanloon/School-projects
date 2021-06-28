@@ -1,0 +1,2632 @@
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0510",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0512",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0515",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0519",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0522",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0522",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0529",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0529",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0537",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0540",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0543",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0544",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0546",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0546",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0549",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0551",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0552",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0554",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0557",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0601",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0604",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0607",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0610",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0612",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0616",
+  "lineNumber": "Line 2"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0520",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0522",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0525",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0529",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0532",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0532",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0539",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0539",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0547",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0550",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0553",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0554",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0556",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0556",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0559",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0601",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0602",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0604",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0607",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0611",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0614",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0617",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0620",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0622",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0626",
+  "lineNumber": "Line 4"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0608",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0610",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0613",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0617",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0620",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0620",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0627",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0627",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0635",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0638",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0641",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0642",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0644",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0644",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0647",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0649",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0650",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0652",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0655",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0659",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0702",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0705",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0708",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0710",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0714",
+  "lineNumber": "Line 14"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0701",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0703",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0706",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0710",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0714",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0714",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0722",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0722",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0730",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0733",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0736",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0737",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0739",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0739",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0742",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0744",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0745",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0747",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0750",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0754",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0757",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0801",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0805",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0807",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0811",
+  "lineNumber": "Line 28"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0709",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0711",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0714",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0718",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0722",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0722",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0730",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0730",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0738",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0741",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0744",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0745",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0747",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0747",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0750",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0752",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0753",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0755",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0758",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0802",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0805",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0809",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0813",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0815",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0819",
+  "lineNumber": "Line 30"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0723",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0725",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0728",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0732",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0736",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0736",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0744",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0744",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0752",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0755",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0758",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0759",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0801",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0801",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0804",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0806",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0807",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0809",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0812",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0816",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0819",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0823",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0827",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0829",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0833",
+  "lineNumber": "Line 32"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0717",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0719",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0722",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0726",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0730",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0730",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0738",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0738",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0746",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0749",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0752",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0753",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0755",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0755",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0758",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0800",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0801",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0803",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0806",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0810",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0813",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0817",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0821",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0823",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0827",
+  "lineNumber": "Line 34"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0730",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0732",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0736",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0741",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0745",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0745",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0752",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0752",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0800",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0803",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0806",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0807",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0809",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0809",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0812",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0814",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0815",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0817",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0820",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0824",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0827",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0831",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0835",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0837",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0841",
+  "lineNumber": "Line 36"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0736",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0738",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0742",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0747",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0751",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0751",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0758",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0758",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0806",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0809",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0812",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0813",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0815",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0815",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0818",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0820",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0821",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0823",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0826",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0830",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0833",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0837",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0841",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0843",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0847",
+  "lineNumber": "Line 38"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0742",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0744",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0748",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0753",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0757",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0757",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0804",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0804",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0812",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0815",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0818",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0819",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0821",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0821",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0824",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0826",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0827",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0829",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0832",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0836",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0839",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0843",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0847",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0849",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0853",
+  "lineNumber": "Line 40"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0748",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0750",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0754",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0759",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0803",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0803",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0810",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0810",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0818",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0821",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0824",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0825",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0827",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0827",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0830",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0832",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0833",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0835",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0838",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0842",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0845",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0849",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0853",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0855",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0859",
+  "lineNumber": "Line 42"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0754",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0756",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0800",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0805",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0809",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0809",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0816",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0816",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0824",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0827",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0830",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0831",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0833",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0833",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0836",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0838",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0839",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0841",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0844",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0848",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0851",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0855",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0859",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0901",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0905",
+  "lineNumber": "Line 44"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0758",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0800",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0804",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0809",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0813",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0813",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0820",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0820",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0828",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0831",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0834",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0835",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0837",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0837",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0840",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0842",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0843",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0845",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0848",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0852",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0855",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0859",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0903",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0905",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0909",
+  "lineNumber": "Line 46"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0804",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0806",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0810",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0815",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0819",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0819",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0826",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0826",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0834",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0837",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0840",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0841",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0843",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0843",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0846",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0848",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0849",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0851",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0854",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0858",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0901",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0905",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0909",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0911",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0915",
+  "lineNumber": "Line 48"
+}
+{
+  "depArr": "V",
+  "station": "Amsterdam, Station Bijlmer ArenA",
+  "days": "(ma-vr)",
+  "time": "0834",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Amsterdam, Holterbergweg",
+  "days": "(ma-vr)",
+  "time": "0836",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Ouderkerk ad Amstl",
+  "days": "(ma-vr)",
+  "time": "0840",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Amstelveen, Oranjebaan",
+  "days": "(ma-vr)",
+  "time": "0845",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "A",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0849",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "V",
+  "station": "Amstelveen, Busstation",
+  "days": "(ma-vr)",
+  "time": "0849",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "A",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0856",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "V",
+  "station": "Schiphol, Knooppunt Noord",
+  "days": "(ma-vr)",
+  "time": "0856",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Airport",
+  "days": "(ma-vr)",
+  "time": "0904",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Schiphol, Handelskade",
+  "days": "(ma-vr)",
+  "time": "0907",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, De Hoek",
+  "days": "(ma-vr)",
+  "time": "0910",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Beukenhorst",
+  "days": "(ma-vr)",
+  "time": "0911",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "A",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0913",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "V",
+  "station": "Hoofddorp, Station",
+  "days": "(ma-vr)",
+  "time": "0913",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Graan voor Visch",
+  "days": "(ma-vr)",
+  "time": "0916",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Toolenburg Noord",
+  "days": "(ma-vr)",
+  "time": "0918",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Bornholm",
+  "days": "(ma-vr)",
+  "time": "0919",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Overbos Noord",
+  "days": "(ma-vr)",
+  "time": "0921",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Hoofddorp, Spaarne Gasthuis",
+  "days": "(ma-vr)",
+  "time": "0924",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "A",
+  "station": "Vijfhuizen, Vijfhuizen",
+  "days": "(ma-vr)",
+  "time": "0928",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "V",
+  "station": "Haarlem, Schalkwijk Centrum",
+  "days": "(ma-vr)",
+  "time": "0931",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Europaweg",
+  "days": "(ma-vr)",
+  "time": "0935",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Langebrug ZTG",
+  "days": "(ma-vr)",
+  "time": "0939",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "O",
+  "station": "Haarlem, Centrum/Verwulft",
+  "days": "(ma-vr)",
+  "time": "0941",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": "A",
+  "station": "Haarlem, Station",
+  "days": "(ma-vr)",
+  "time": "0945",
+  "lineNumber": "Line 58"
+}
+{
+  "depArr": " ",
+  "station": " ",
+  "days": "===EOF===",
+  "time": " ",
+  "lineNumber": " "
+}
